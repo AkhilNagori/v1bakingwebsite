@@ -1,0 +1,37 @@
+{
+  "name": "nilskathi-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write \"./{components,lib,pages,public,styles}/**/*.{ts,tsx,js,json,html,css}\"",
+    "postbuild": "next-sitemap"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "@fortawesome/free-brands-svg-icons": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.4",
+    "mongoose": "^6.8.0",
+    "next": "latest",
+    "next-sitemap": "^3.1.32",
+    "prettier": "^2.7.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-gtm-module": "^2.0.11",
+    "sharp": "^0.31.2",
+    "typescript": "4.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.5",
+    "@types/react": "16.9.17",
+    "@types/react-dom": "18.0.9",
+    "@types/react-gtm-module": "^2.0.1",
+    "typescript": "4.6.3"
+  }
+}

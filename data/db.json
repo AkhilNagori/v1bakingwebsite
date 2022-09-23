@@ -1,0 +1,3623 @@
+{
+  "recipes": [
+    {
+      "id": "gebratene-nudeln",
+      "type": "cooking-recipe",
+      "title": "Gebratene Nudeln",
+      "author": "Nils & Kathi",
+      "date": "2022-09-19",
+      "idTiktok": "7145121458807737605",
+      "idInstagram": "CisbqltIAyM",
+      "idYoutube": "cACtupR7Po0",
+      "description": "Chinesischer Art",
+      "tags": ["vegetarisch", "laktosefrei"],
+      "durationCook": 15,
+      "durationWork": 20,
+      "difficulty": "Mittel",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Zucchini"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Lauchstange"
+        },
+        {
+          "amount": 5,
+          "type": null,
+          "name": "Karotten"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Zwiebeln"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Sesamöl",
+          "ref": "https://amzn.to/3eC38mh"
+        },
+        {
+          "amount": 3,
+          "type": null,
+          "name": "Eier"
+        },
+        {
+          "amount": 4,
+          "type": "EL",
+          "name": "Sojasoße",
+          "ref": "https://amzn.to/3eEZhF0"
+        },
+        {
+          "amount": 400,
+          "type": "g",
+          "name": "Mie Nudeln",
+          "ref": "https://amzn.to/3D5N0CP"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Zuerst wird das Gemüse vorbereitet: <ul><li>Die Zucchini in dünne Scheiben und dann halbieren.</li><li>Die Lauchstange klein schneiden und nach dem Schneiden waschen</li><li>Karotten schälen und in Streifen schneiden</li><li>Die Zwiebeln in grobe Stückchen schneiden.</li></ul>Nun wird das Gemüse mit ein dem Sesamöl scharf angebraten. Hierbei die Sojasoße hinzufügen. Währenddessen können wir uns um die Eier kümmern. Diese in einer Schüssel verquirlen und seperat anbraten. Sobald das Gemüse und die Eier fertig sind, die Eier unter das Gemüse mischen.<br/><br/>Nun müssen nur noch die Nudeln abgekocht werden und unter das Gemüse-Eier-Gemisch gemischt werden. Das Ganze gut mit Salz und Pfeffer (evtl. noch Sojasoße) abschmecken und fertig sind die lecker gebratenen Nudeln."
+    },
+    {
+      "id": "suesskartoffel-kichererbsen-curry",
+      "type": "cooking-recipe",
+      "title": "Süßkartoffel-Kichererbsen Curry",
+      "author": "Nils & Kathi",
+      "date": "2022-09-20",
+      "idTiktok": "7145492689415326981",
+      "idInstagram": "CivASjnI8a3",
+      "idYoutube": "ar3EiGqwwjQ",
+      "description": "Unser Lieblingscurry",
+      "tags": ["vegetarisch"],
+      "durationCook": 30,
+      "durationWork": 15,
+      "difficulty": "Mittel",
+      "portions": 6,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Koriandersamen"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Kreuzkümmel"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Paprikapulver"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Kurkuma"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Bockshornklee"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Chillipulver"
+        },
+        {
+          "amount": 5,
+          "type": null,
+          "name": "Nelken"
+        },
+        {
+          "amount": 5,
+          "type": null,
+          "name": "Kardamomkapseln"
+        },
+        {
+          "amount": 0.5,
+          "type": "Stange/n",
+          "name": "Zimt"
+        },
+        {
+          "amount": 3,
+          "type": "cm",
+          "name": "Ingwer"
+        },
+        {
+          "amount": 3,
+          "type": "Zehe/n",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Tamarindenpaste"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Süßkartoffel"
+        },
+        {
+          "amount": 1,
+          "type": "Dose",
+          "name": "Kichererbsen"
+        },
+        {
+          "amount": 1,
+          "type": "Dose",
+          "name": "Gehackte Tomaten"
+        },
+        {
+          "amount": 1,
+          "type": "Becher",
+          "name": "Schlagsahne"
+        },
+        {
+          "amount": 50,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 500,
+          "type": "ml",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Honig"
+        },
+        {
+          "amount": 375,
+          "type": "g",
+          "name": "Basmatireis"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Die Gewürze im Mörser fein mahlen. Die Zwiebel und die geschälte Süßkartoffel in Würfel schneiden. Den Knoblauch und Ingwer klein hacken.<br /><br />Danach die Zwiebel anbraten, bis sie anfängt leicht braun zu werden. Die Gewürze und den Knoblauch dazugeben und bei mittlerer Hitze rösten, bis sie ein intensives Aroma abgeben. Aufpassen, dass hier nichts anbrennt, das kann schnell gehen. Danach Süßkartoffelwürfel, Kichererbsen, Tomaten und Tamarindenpaste hinzufügen. Mit Brühe auffüllen, bis alles bedeckt ist und ca. 15 Min. köcheln lassen, bis die Süßkartoffeln gar sind.<br /><br />Jetzt nur noch die Sahne dazugeben, mit Salz, Pfeffer und Honig abschmecken und von der Platte nehmen. Ganz zum Schluss die Butter unterrühren und mit dem Basmatireis servieren."
+    },
+    {
+      "id": "subway-cookies",
+      "type": "baking-recipe",
+      "title": "Subway Cookies",
+      "author": "Nils & Kathi",
+      "date": "2022-09-21",
+      "idTiktok": "7145863730251844869",
+      "idInstagram": "Cixk_GwKuOX",
+      "idYoutube": "xt9mm-ysGLw",
+      "description": "Leckere Cookies wie bei Subway",
+      "tags": ["vegetarisch"],
+      "durationCook": 10,
+      "durationWork": 15,
+      "difficulty": "Einfach",
+      "portions": 20,
+      "ingredients": [
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 260,
+          "type": "g",
+          "name": "Zucker"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Vanillezucker"
+        },
+        {
+          "amount": 270,
+          "type": "g",
+          "name": "Weizenmehl"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Natron"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Salz"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Lieblingsschokolade oder -nüsse"
+        }
+      ],
+      "content": "Am besten hiefür ein Handrührgerät verwenden:<br/>Die Butter erwärmen und mit dem Zucker und dem Salz schaumig schlagen. Die Eier und das Vanilliezucker zufügen und cremig rühren.<br/><br/>Das Mehl in einer anderen Schüssel abwiegen und das Natron untermischen. Das Mehl-Natron-Gemisch in die andere Maße gut mit einem Löffel (nicht das Handrührgerät verwenden) vermengen. Nun Lieblingsschokolade oder -nüsse unterrühren.<br /><br/>Den fertigen Teig mit einem Esslöffel auf 3 Backbleche verteilen (oder nacheinander backen geht auch). Wir empfehlen 9 Cookies pro Blech. Den Cookies nun im Backofen bei 190 Grad Umluft für 10-13 Minuten backen. Nach dem Backen die Bleche aus dem Backofen nehmen und die Cookies auf dem Backblech abkühlen lassen."
+    },
+    {
+      "id": "tortellini",
+      "type": "cooking-recipe",
+      "title": "Tortellini",
+      "author": "Nils & Kathi",
+      "date": "2022-09-22",
+      "idTiktok": "7146234776217734406",
+      "idInstagram": "Ci0KDqxok9U",
+      "idYoutube": "TpKsu5x7MhA",
+      "description": "Wenn's mal schnell gehen muss",
+      "tags": ["fleisch"],
+      "durationCook": 10,
+      "durationWork": 5,
+      "difficulty": "Einfach",
+      "portions": 2,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 2,
+          "type": "Scheiben",
+          "name": "Schinken"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Sonnenblumenöl"
+        },
+        {
+          "amount": 1,
+          "type": "El",
+          "name": "Mehl"
+        },
+        {
+          "amount": 300,
+          "type": "ml",
+          "name": "Milch"
+        },
+        {
+          "amount": 1,
+          "type": "Zehe",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": 2,
+          "type": "El",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Muskatnuss"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Pfeffer und Salz"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Tortellini"
+        }
+      ],
+      "content": "Zwiebel und Schinken in kleine Würfel schneiden und dann mit Sonnenblumenöl anbraten. Dann das Mehl hinzufügen, umrühren und mit Milch aufgießen. Das Ganze nun mit einem Schneebesen umrühren und aufkochen lassen. Nun die Gewürze (Knoblauch, Gemüsebrühe, Muskatnuss, Salz und Pfeffer) dazugeben und umrühren.<br /><br />Die Tortellini nach Anweisung im Wasser kochen lassen, bis sie fertig sind. Umrühren dabei nicht vergessen. Tortellini abschöpfen und mit der Schinken-Sahne-Soße servieren."
+    },
+    {
+      "id": "tomatensuppe-mit-croutons",
+      "type": "cooking-recipe",
+      "title": "Tomatensuppe mit Croûtons",
+      "author": "Nils & Kathi",
+      "date": "2022-09-23",
+      "idTiktok": "7146605762901511430",
+      "idInstagram": "Ci2uzmPIYzv",
+      "idYoutube": "wJgkw3NnPfM",
+      "description": "Nie wieder altes Brot wegwerfen",
+      "tags": ["vegetarisch"],
+      "durationCook": 20,
+      "durationWork": 20,
+      "difficulty": "Einfach",
+      "portions": 6,
+      "ingredients": [
+        {
+          "amount": null,
+          "type": null,
+          "name": "Altes Brot"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Sonnenblumenöl"
+        },
+        {
+          "amount": 1,
+          "type": "Glas",
+          "name": "Passierte Tomaten (von Mutti)",
+          "ref": "https://amzn.to/3ggThCD"
+        },
+        {
+          "amount": 1,
+          "type": "Dose",
+          "name": "Stückige Tomaten",
+          "ref": "https://amzn.to/3DamGqY"
+        },
+        {
+          "amount": 1,
+          "type": "Zehe",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": 2,
+          "type": "El",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Pfeffer und Salz"
+        },
+        {
+          "amount": 4,
+          "type": "El",
+          "name": "Oregano"
+        },
+        {
+          "amount": 4,
+          "type": "El",
+          "name": "Basilikum"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Green Hornet von Ankerkraut"
+        },
+        {
+          "amount": 1,
+          "type": "Becher",
+          "name": "Sahne"
+        }
+      ],
+      "content": "Altes Brot in kleine Würfel schneiden und über Nacht trocknen lassen, bis sie hart sind.<br /><br/>Die getrockneten Brotwürfel im Sonnenblumenöl anbraten. In der Zwischenzeit die passierten und stückigen Tomaten köcheln lassen und dann Knoblauch (gepresst), Gemüsebrühe, Salz, Pfeffer, Oregano (die Hälfte), Basilikum (die Hälfte) und Green Hornet (die Hälfte) hinzufügen und gut umrühren. Den Rest vom Oregano, Basilikum und Green Hornet über die goldbraun angebratenen Croutons verteilen und gut vermengen.<br/><br />Zum Schluss die Sahne mit der Tomatensoße verrühren und mit den Croutons servieren."
+    },
+    {
+      "id": "karpfen-aus-dem-ofen",
+      "type": "cooking-recipe",
+      "title": "Fisch (Karpfen) ausm Ofen",
+      "author": "Nils & Kathi",
+      "date": "2022-09-26",
+      "idTiktok": "7147720064324750597",
+      "idInstagram": "Ci-dZs_oguR",
+      "idYoutube": "Bu9Hu3_TkjE",
+      "description": "Backofen-Fisch",
+      "tags": ["laktosefrei", "fisch"],
+      "durationCook": 45,
+      "durationWork": 15,
+      "difficulty": "Mittel",
+      "portions": 2,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Fisch (z. B. Karpfen oder Forelle)"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Zitronen"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Frischer Thymian"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Frischer Rosmarin"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Zuerst müssen die Zwiebel in kleine Würfel und die Zitronen in Scheiben geschnitten werden. Den ausgenommenen Fisch dann mit Salz und Pfeffer würzen und dann mit den Zwiebelwürfel, den frischen Kräutern (Thymian & Rosmarin) und Zitronenscheiben befüllen (Bitte mind. 4 Scheiben behalten, die brauchen wir gleich noch). Den Fisch so voll packen wie möglich. Das variiert je nach Fischgröße.<br /><br />Dann brauchen wir eine Alufolie, auf die zuerst 2-3 der restlichen Zitronenscheiben gelegt wird. Dann den Fisch auf die Zitronenscheiben legen und oben die restlichen Scheiben verteilen. Den Fisch nun gut zupacken mit Alufolie (2 Lagen sollten genügen) und in einer Backform oder einen Backblech bei 190 Grad Ober-/Unterhitze (170 Grad Umluft) für ca. 30-45 Min. backen."
+    },
+    {
+      "id": "eintopf",
+      "type": "cooking-recipe",
+      "title": "Eintopf",
+      "author": "Oma Erika (Kathi's Oma)",
+      "date": "2022-09-27",
+      "idTiktok": "7148090748821409029",
+      "idInstagram": "CjBB9RkoRd8",
+      "idYoutube": "9NvT1yn-dfI",
+      "description": "Rezept nach Kathi's Oma",
+      "tags": ["schwäbisch", "laktosefrei", "fleisch"],
+      "durationCook": 180,
+      "durationWork": 120,
+      "difficulty": "Einfach",
+      "portions": 10,
+      "ingredients": [
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Suppengrün"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Zwiebeln"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Bohnen"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Öl"
+        },
+        {
+          "amount": 2,
+          "type": "Zehe/n",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Marksknochen"
+        },
+        {
+          "amount": 700,
+          "type": "g",
+          "name": "Tafelspitz"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Maggi",
+          "ref": "https://amzn.to/3ESve7f"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Hot Maggi",
+          "ref": "https://amzn.to/3gnbr5y"
+        },
+        {
+          "amount": 5,
+          "type": "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 0.5,
+          "type": "TL",
+          "name": "Green Hornet von Ankerkraut"
+        },
+        {
+          "amount": 5,
+          "type": null,
+          "name": "Chilliwürstchen"
+        },
+        {
+          "amount": 1,
+          "type": "Dose",
+          "name": "Erbsen"
+        },
+        {
+          "amount": 8,
+          "type": null,
+          "name": "Kartoffeln"
+        },
+        {
+          "amount": 500,
+          "type": "g",
+          "name": "Oberschwäbische Land-Nudeln von Dorfmühle"
+        }
+      ],
+      "content": "Anstatt des Suppengrüns kaufen wir die Zutaten einzeln und frieren den Rest ein (optional):<ul><li>1 Packung Karotten</li><li>eine Sellerie</li><li>eine Lauchstange</li><li>ein Bund Petersillie</li></ul>Das Suppengrün und Zwiebeln klein schneiden und mit den Bohnen in etwas Öl gut anbraten. Danach die Knoblauchzehen hinzupressen, Marksknochen hinzufügen und den Topf mit Wasser auffüllen. Den Topf zum Kochen bringen und dann das Stück Fleisch (Tafelspitz) hinzufügen, mit Maggi, Hot Maggi, Gemüsebrühe, Salz, Pfeffer und optional Green Hornet abschmecken und köcheln lassen.<br /><br />Nun die Chilliwürstchen und Kartoffeln klein schneiden. Wir empfehlen die geschnittenen Kartoffeln in Wasser zu legen, damit sie nicht braun werden, sollange man wartet. Sobbald das Fleisch fast durch ist die Chilliwürstchen, Kartoffeln und Erbsen dazugeben. Fleisch und Marksknochen entnehmen, abkühlen lassen und das Fleisch in kleine Würfel wieder hinzugeben.<br /><br />Nun die Nudeln abkochen und mit dem Eintopf in einer Schüssel servieren. "
+    },
+    {
+      "id": "waffeln",
+      "type": "baking-recipe",
+      "title": "Waffeln",
+      "author": "Nils & Kathi",
+      "date": "2022-09-29",
+      "idTiktok": "7148833632700910853",
+      "idInstagram": "CjGMa9ZIg86",
+      "idYoutube": "dt18Ni701r4",
+      "description": "Waffel Grundrezept",
+      "tags": ["vegetarisch"],
+      "durationCook": 10,
+      "durationWork": 15,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 120,
+          "type": "g",
+          "name": "Zucker"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Vanillezucker"
+        },
+        {
+          "amount": 1,
+          "type": "Prise",
+          "name": "Salz"
+        },
+        {
+          "amount": 250,
+          "type": "ml",
+          "name": "Milch"
+        },
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Eier"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Mehl"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Backpulver"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Sonnenblumenöl"
+        }
+      ],
+      "content": "Die Teigmenge reicht für 10-12 Waffeln.<br/><br />Die Butter erwärmen und mit dem Zucker, dem Vanillezucker, dem Salz und der Milch in einer Rührschüssel mit einem Handrührgerät zu einem glatten Teig verrühren. Dann die Eier dazugeben und gut unterrühren.<br /><br />Nun Mehl und Backpulver mischen und zur ersten Masse dazusieben. Das Ganze sollange rühren, bis sich alle Zutaten verbunden haben.<br /><br />Waffeleisen mit etwas Öl einpinseln und ca. 10 Minuten bei geschlossenem Deckel auf mittlerer Temperatur vorheizen. Nun eine Portion Teig auf die untere Hälfte des Waffeleisens füllen und das Waffeleisen schließen. Deckel gut andrücken und warten, bis die Waffeln goldbraun gebacken sind."
+    },
+    {
+      "id": "knoblauchoel",
+      "type": "other-recipe",
+      "title": "Knoblauchöl",
+      "author": "Nils & Kathi",
+      "date": "2022-09-30",
+      "idTiktok": "7148833632700910853",
+      "idInstagram": "CjIw1hfIKvY",
+      "idYoutube": "Bs69TAS2jek",
+      "description": "Passt zu allem eigentlich",
+      "tags": ["vegetarisch", "vegan", "laktosefrei"],
+      "durationCook": 15,
+      "durationWork": 4320,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 650,
+          "type": "ml",
+          "name": "Sonnenblumenöl"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Knoblauchknollen"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Küchenpapier"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Reißfestes Gummiband"
+        }
+      ],
+      "content": "Die kompletten Knoblauchzehen schälen und in einen Mixer packen. Dann das Sonnenblumenöl hinzufügen und alles gut miteinander mixen bis die Flüssigkeit sämig ist.<br /><br />Danach die Flüssigkeit in einen verschließbaren Behälter leeren. Nun heißt es drei Tage abwarten und täglich 2-3 mal umrühren. Sobald die Tage vorbei sind kannst du mit es Hilfe von zwei Küchenpapier filtern. Dieses über einen großen Becher oder Behälter legen und eine Kuhle mit den Händen bilden. Wir empfehlen hierfür einen reißfesten Gummi um das Küchenpapier zu wickeln, damit das Papier nicht wegrutscht.<br /><br />Nun nach und nach das Öl in die Kuhle schütten und abwarten, bis das klare Öl durch das Küchenpapier sickert und fertig ist das lecker Knoblauchöl."
+    },
+    {
+      "id": "spaghetti-bolognese",
+      "type": "cooking-recipe",
+      "title": "Spaghetti Bolognese",
+      "author": "Mama Sandra (Mutter von Nils)",
+      "date": "2022-10-03",
+      "idTiktok": "7150317012353338630",
+      "idInstagram": "CjQf63CIjXI",
+      "idYoutube": "jqCvkei-puk",
+      "description": "Erstes Gericht, das wir zsm. gekocht haben",
+      "tags": ["laktosefrei", "fleisch"],
+      "durationCook": 120,
+      "durationWork": 30,
+      "difficulty": "Einfach",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Knoblauchöl",
+          "to": "/rezept/knoblauchoel"
+        },
+        {
+          "amount": 300,
+          "type": "g",
+          "name": "Rinderhackfleisch"
+        },
+        {
+          "amount": 3,
+          "type": "EL",
+          "name": "Tomatenmark (von Mutti)",
+          "ref": "https://amzn.to/3TvJl6t"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Suppengrün"
+        },
+        {
+          "amount": 2,
+          "type": "Dosen",
+          "name": "stückige Tomaten (Mutti Filetti)",
+          "ref": "https://amzn.to/3yOCMUY"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Bolognese Gewürz von Ankerkraut",
+          "ref": "https://www.ankerkraut.de/products/bolognese"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Zuerst Zwiebel und das Suppengrün in kleine Würfel schneiden. Dann die Zwiebelwürfel im selbstgemachten Knoblauchöl anbraten. Alternativ geht auf jedes andere Öl, in welches nurnoch Knoblauch gepresst werden muss. Danach das Hackfleisch hinzufügen und mit dem Tomatenmark gut anbraten. Nun das Suppengrün hinzufügen bisschen köcheln lassen und dann erst mit Gemüsebrühe, Bolognese Gewürz, Salz und Pfeffer würzen. Anstelle des Bolognese Gewürz kann auch Basilikum, Oregano, Thymian und Rosmarin verwendet werden. Nun die Bolognese mind. 60 Minuten köcheln lassen, Nudeln in der Zwischenzeit abkochen und am besten mit Parmesan servieren."
+    },
+    {
+      "id": "fruehstuecks-bowl",
+      "type": "baking-recipe",
+      "title": "Frühstücks-Bowl",
+      "author": "Nils & Kathi",
+      "date": "2022-10-05",
+      "idTiktok": "7151063023384333574",
+      "idInstagram": "CjVrjEdoecS",
+      "idYoutube": "DYRs4QAB5AE",
+      "description": "Ein guter Start in den Tag",
+      "tags": ["vegetarisch"],
+      "durationCook": 0,
+      "durationWork": 15,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 200,
+          "type": "g",
+          "name": "Waldbeerenmix"
+        },
+        {
+          "amount": 200,
+          "type": "g",
+          "name": "Joghurt"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Apfel"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Leinsamen"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Kokosflocken"
+        },
+        {
+          "amount": 1,
+          "type": "handvoll",
+          "name": "Mandeln"
+        },
+        {
+          "amount": 1,
+          "type": "handvoll",
+          "name": "Haselnüsse"
+        }
+      ],
+      "content": "Waldbeerenmix auftauen lassen und mit dem Joghurt gut durchmixxen bis eine gleichmäßige Farbe entstanden ist. Die Masse in eine Schüssel geben und mit den Toppings garnieren und servieren."
+    },
+    {
+      "id": "gegrillte-champions",
+      "type": "cooking-recipe",
+      "title": "Gegrillte Champions",
+      "author": "Nils & Kathi",
+      "date": "2022-10-06",
+      "idTiktok": "7151429626366119173",
+      "idInstagram": "CjYNGchosdL",
+      "idYoutube": "yHyzb5QuUig",
+      "description": "Gehört zu jedem Grilltag dazu",
+      "tags": ["vegetarisch"],
+      "durationCook": 15,
+      "durationWork": 5,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Champions"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Frischkäse"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Knoblauchöl",
+          "to": "/rezept/knoblauchoel"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Kräuterlinge von Knorr (Gartenkräuter)",
+          "ref": "https://amzn.to/3VPwRJ8"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Basilikum"
+        }
+      ],
+      "content": "Zuerst Pilze mit einem Küchenpapier putzen und die Stiele entfernen. Nun die Champions mit dem Frischkäse befüllen. Mit Alufolie eine Art Behälter bilden und die Stiele hinzufügen. Nun alle restlichen Zutaten über die Stiele geben und umrühren. Bei ca. 180-200 Grad auf dem Grill anbraten und genießen."
+    },
+    {
+      "id": "gegrillte-zucchini",
+      "type": "cooking-recipe",
+      "title": "Gegrillte Zucchini",
+      "author": "Nils & Kathi",
+      "date": "2022-10-06",
+      "idTiktok": "7151429626366119173",
+      "idInstagram": "CjYNGchosdL",
+      "idYoutube": "yHyzb5QuUig",
+      "description": "Gehört zu jedem Grilltag dazu",
+      "tags": ["vegetarisch", "laktosefrei"],
+      "durationCook": 15,
+      "durationWork": 5,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zucchini"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Knoblauchöl",
+          "to": "/rezept/knoblauchoel"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Kräuterlinge von Knorr (Gartenkräuter)",
+          "ref": "https://amzn.to/3VPwRJ8"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Basilikum"
+        }
+      ],
+      "content": "Zucchini in kleine Scheiben schneiden und in eine Schüssel geben. Nun alle restlichen Zutaten über die Zucchinischeiben geben und umrühren. Bei ca. 180-200 Grad auf dem Grill anbraten und genießen."
+    },
+    {
+      "id": "gulasch",
+      "type": "cooking-recipe",
+      "title": "Gulasch",
+      "author": "Nils & Kathi",
+      "date": "2022-10-07",
+      "idTiktok": "7151800755501026566",
+      "idInstagram": "Cjaxekeo09U",
+      "idYoutube": "dCj3M-oOLsE",
+      "description": "Der Grund für einen Schmortopf",
+      "tags": ["fleisch"],
+      "durationCook": 180,
+      "durationWork": 45,
+      "difficulty": "Mittel",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 750,
+          "type": "g",
+          "name": "Rinderfleisch von der Hohen Rippe"
+        },
+        {
+          "amount": 3,
+          "type": null,
+          "name": "Zwiebeln"
+        },
+        {
+          "amount": 20,
+          "type": "g",
+          "name": "Schweineschmalz"
+        },
+        {
+          "amount": 3,
+          "type": "TL",
+          "name": "Paprika rosenscharf"
+        },
+        {
+          "amount": 2,
+          "type": "TL",
+          "name": "Paprika geräuchtert"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Kümmel"
+        },
+        {
+          "amount": 1,
+          "type": "Messerspitze",
+          "name": "Koriander"
+        },
+        {
+          "amount": 2,
+          "type": "Zehe/n",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": 3,
+          "type": "EL",
+          "name": "Tomatenmark"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Suppengrün (optional)"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Rotwein (Le Sweet Filou)",
+          "ref": "https://amzn.to/3VGZ9VS"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Wasser"
+        },
+        {
+          "amount": 1,
+          "type": "Becher",
+          "name": "Sahne"
+        }
+      ],
+      "content": "Das Rinderfleisch und die Zwiebeln in gewünschte Würfel schneiden und in Schweinemalz anbraten. Dann alle Gewürze, Knoblauch und Tomatenmark hinzufügen und alles zu einer guten Paste verrühren. Da wir Gulasch gerne mit Suppengrün essen, kann nun optional Suppengrün hinzugefügt werden.<br /><br />Wenn alles gut angebraten ist, das Ganze mit dem Rotwein ablöschen und mit etwas Wasser auffüllen. Das Ganze nun 2-3 Stunden köcheln lassen, den Herd abschalten und zum Schluss die Sahne dazugeben. Am besten mit Spätzle oder Nudeln servieren."
+    },
+    {
+      "id": "spaetzle",
+      "type": "cooking-recipe",
+      "title": "Spätzle",
+      "author": "Sandra (Mama von Nils)",
+      "date": "2022-10-08",
+      "idTiktok": "7152171777047710981",
+      "idInstagram": "CjdWnwEoOLA",
+      "idYoutube": "2ulm6m5aqxc",
+      "description": "Ein Muss für uns Schwaben",
+      "tags": ["schwäbisch", "vegetarisch"],
+      "durationCook": 15,
+      "durationWork": 15,
+      "difficulty": "Einfach",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 400,
+          "type": "g",
+          "name": "Weizenmehl"
+        },
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Eier"
+        },
+        {
+          "amount": 100,
+          "type": "ml",
+          "name": "Wasser"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Maggi",
+          "ref": "https://amzn.to/3ESve7f"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Mehl, Eier und Wasser mit einem Handrührgerät gut verühren. Dann Maggi, Salz und Pfeffer hinzufügen und nochmals gut verühren. Den Spätzlesteig nun schaben oder in mit einer Spätzlespresse pressen in kochendes Wasser und warten bis die Spätzle hochkommen (Dauert ca. 1-2 Minuten). Dann in eine Schüssel mit kalt bis lauwarmes Wasser geben, kurz warten und dann in einen Sieb schütten. Das Ganze wird wiederholt, bis kein Teig mehr übrig ist."
+    },
+    {
+      "id": "raffaello-creme",
+      "type": "baking-recipe",
+      "title": "Raffaello Creme",
+      "author": "Nils & Kathi",
+      "date": "2022-10-09",
+      "idTiktok": "7152544967938903302",
+      "idInstagram": "Cjf9QhKIWRF",
+      "idYoutube": "rNxAFPE0Jew",
+      "description": "Leckeres Kokos-Dessert",
+      "tags": ["vegetarisch"],
+      "durationCook": 0,
+      "durationWork": 20,
+      "difficulty": "Einfach",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Raffaello",
+          "ref": "https://amzn.to/3TxLbnz"
+        },
+        {
+          "amount": 500,
+          "type": "g",
+          "name": "Quark"
+        },
+        {
+          "amount": 50,
+          "type": "g",
+          "name": "Zucker"
+        },
+        {
+          "amount": 2,
+          "type": "Pck.",
+          "name": "Vanillinzucker"
+        },
+        {
+          "amount": 1,
+          "type": "Becher",
+          "name": "Sahne"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Gefrorene Himbeeren"
+        }
+      ],
+      "content": "Raffaello auspacken und in Schüssel zerkleinern. Nun den Quark, Zucker und Vanillinzucker dazugeben und verrühren. Die Sahne steif schlagen und unterheben.<br /><br />Die gefrorenen Himbeeren in kleine Gläser geben und mit der Raffaellomasse bedecken. Dann bis zum Verzehr ca. 6 Stunden im Kühlschrank stehen lassen, bis die Himbeeren aufgetaut sind und servieren."
+    },
+    {
+      "id": "zitronenkuchen",
+      "type": "baking-recipe",
+      "title": "Zitronenkuchen ",
+      "author": "Nils' Uroma",
+      "date": "2022-10-10",
+      "idTiktok": "7152914014308273414",
+      "idInstagram": "Cjigb4Yo61f",
+      "idYoutube": "au8F-HueyxE",
+      "description": "Kinder lieben diesen Kuchen",
+      "tags": ["vegetarisch"],
+      "durationCook": 30,
+      "durationWork": 20,
+      "difficulty": "Einfach",
+      "portions": 24,
+      "ingredients": [
+        {
+          "amount": 350,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 350,
+          "type": "g",
+          "name": "Zucker"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Vanillinzucker"
+        },
+        {
+          "amount": 6,
+          "type": null,
+          "name": "Eier"
+        },
+        {
+          "amount": 350,
+          "type": "g",
+          "name": "Mehl"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Backpulver"
+        },
+        {
+          "amount": 400,
+          "type": "g",
+          "name": "Puderzucker"
+        },
+        {
+          "amount": 50,
+          "type": "ml",
+          "name": "Zitronensaft"
+        }
+      ],
+      "content": "Die Teigmenge reicht für ein komplettes Backblech.<br /><br />Für den Teig weiche Butter, Zucker und Vanillinzucker schaumig rühren. Dann die Eier hinzufügen und wieder schaumig rühren. Das Mehl mit dem Backpulver vermischen und in die Teigmasse sieben. Das Ganze gut verrühren und auf ein eingefettetes Backblech verteilen und bei 180 Grad Ober-/Unterhitze für ca. 30 Minuten goldbraun backen.<br /><br />Wenn der Kuchen erkaltet ist, den Puderzucker mit dem Zitronensaft vermischen und über den erkalteten Kuchen pinsel. Warten bis die Glasur fest ist, dann kann der Kuchen geschnitten werden."
+    },
+    {
+      "id": "zucchinisuppe",
+      "type": "cooking-recipe",
+      "title": "Zucchinisuppe",
+      "author": "Nils & Kathi",
+      "date": "2022-10-11",
+      "idTiktok": "7153285614153059589",
+      "idInstagram": "CjlFeI7I7Fr",
+      "idYoutube": "6KkK0SQMFFw",
+      "description": "Verdammt leckere Vorspeise",
+      "tags": ["vegetarisch"],
+      "durationCook": 15,
+      "durationWork": 15,
+      "difficulty": "Einfach",
+      "portions": 2,
+      "ingredients": [
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Zucchini"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Kartoffel"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 500,
+          "type": "ml",
+          "name": "Wasser"
+        },
+        {
+          "amount": 1,
+          "type": "Becher",
+          "name": "Sahne"
+        },
+        {
+          "amount": 3,
+          "type": "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Pfeffer"
+        }
+      ],
+      "content": "Zucchinis waschen und in Scheiben schneiden. Die Kartoffel und Zwiebel schälen und klein würfeln. Zwiebel glasig braten und mit Wasser auffüllen. Nun Zucchinischeiben und Kartoffelwürfel hinzugeben und köcheln lassen bis alles gut durch ist. Die Masse dann mit einem Handrührgerät mixxen bis alles sämig ist. Sahne hinzugeben und mit Gemüsebrühe und Pfeffer würzen."
+    },
+    {
+      "id": "crema-di-funghi",
+      "type": "cooking-recipe",
+      "title": "Crema di funghi",
+      "author": "Nils & Kathi",
+      "date": "2022-10-12",
+      "idTiktok": "7153656531391646981",
+      "idInstagram": "CjnqbVkIOyd",
+      "idYoutube": "lKdaQoTFCG8",
+      "description": "Nach der Art von Vapiano",
+      "tags": ["vegetarisch"],
+      "durationCook": 30,
+      "durationWork": 15,
+      "difficulty": "Einfach",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Champions"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Knoblauchöl",
+          "to": "/rezept/knoblauchoel"
+        },
+        {
+          "amount": 250,
+          "type": "ml",
+          "name": "Chardonnay"
+        },
+        {
+          "amount": 2,
+          "type": "Becher",
+          "name": "Sahne"
+        },
+        {
+          "amount": 2,
+          "type": "Schoten",
+          "name": "Chilli"
+        },
+        {
+          "amount": 3,
+          "type": "TL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Nudeln"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Wasser"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Parmesan (grob geriebener)"
+        }
+      ],
+      "content": "Zwiebeln klein würfeln. Champions waschen und in dünne Scheiben schneiden. Zwiebeln und Champions nun im Knoblauchöl anbraten. Nun mit Chardonnay ablöschen und Sahne hinzugeben. Nun mit Chilli, Salz, Pfeffer und Gemüsebrühe würzen. Dann die Nudeln und ein wenig Wasser hinzugeben und köcheln lassen. Zum Schluss Parmesan hinzugeben, umrühren und servieren."
+    },
+    {
+      "id": "gegrillte-forelle",
+      "type": "cooking-recipe",
+      "title": "Gegrillte Forelle",
+      "author": "Nils & Kathi",
+      "date": "2022-10-13",
+      "idTiktok": "7154027653924736261",
+      "idInstagram": "CjqO_psoOiB",
+      "idYoutube": "I1khefEhxFc",
+      "description": "Eignet sich für fast jeden Fisch",
+      "tags": ["laktosefrei", "fisch"],
+      "durationCook": 15,
+      "durationWork": 15,
+      "difficulty": "Mittel",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Forelle"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zitrone"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Frischer Thymian"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Frischer Rosmarin"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Zuerst müssen die Zwiebel in kleine Würfel und die Zitronen in Scheiben geschnitten werden. Den ausgenommenen Fisch dann mit Salz und Pfeffer würzen und dann mit den Zwiebelwürfel, den frischen Kräutern (Thymian & Rosmarin) und Zitronenscheiben befüllen (Bitte mind. 4 Scheiben behalten, die brauchen wir gleich noch). Den Fisch so voll packen wie möglich. Das variiert je nach Fischgröße.<br /><br />Den Fisch nun in eine Fischfrillzange packen und auf beiden Seiten jeweils zwei Zitronenscheiben machen. Den Fisch nun ca 180-200 Grad für ca. 30-45 Min. grillen."
+    },
+    {
+      "id": "bananenshake",
+      "type": "cooking-recipe",
+      "title": "Bananenshake",
+      "author": "Nils & Kathi",
+      "date": "2022-10-14",
+      "idTiktok": "7154398683063192838",
+      "idInstagram": "CjsztYpoZLA",
+      "idYoutube": "TAe_WbJ18_M",
+      "description": "Cremiger Shake ohne Zusätze",
+      "tags": ["vegetarisch"],
+      "durationCook": 0,
+      "durationWork": 5,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Bananen"
+        },
+        {
+          "amount": 250,
+          "type": "ml",
+          "name": "Milch"
+        }
+      ],
+      "content": "Bananen schälen, klein schneiden und einfrieren. Wenn die Bananenstücke eingefroren sind, mit der Milch in den Mixxer packen und mixxen."
+    },
+    {
+      "id": "kuerbissuppe",
+      "type": "cooking-recipe",
+      "title": "Kürbissuppe",
+      "author": "Nils & Kathi",
+      "date": "2022-10-15",
+      "idTiktok": "7154772475140705541",
+      "idInstagram": "CjvZszYI6k4",
+      "idYoutube": "_DKq5tmBAlA",
+      "description": "Perfekt in der Herbstzeit mit Ingwer und Kokosmilch",
+      "tags": ["vegetarisch", "vegan", "laktosefrei"],
+      "durationCook": 10,
+      "durationWork": 5,
+      "difficulty": "Mittel",
+      "portions": 6,
+      "ingredients": [
+        {
+          "amount": 800,
+          "type": "g",
+          "name": "Hokkaidokürbis"
+        },
+        {
+          "amount": 600,
+          "type": "g",
+          "name": "Karotten"
+        },
+        {
+          "amount": 5,
+          "type": "cm",
+          "name": "Ingwer"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Kürbiskernöl"
+        },
+        {
+          "amount": 1,
+          "type": "Liter",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": 500,
+          "type": "ml",
+          "name": "Kokosmilch"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Sojasoße"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zitrone"
+        },
+        {
+          "amount": 3,
+          "type": "handvolle",
+          "name": "Kürbiskerne (optional)"
+        }
+      ],
+      "content": "Kürbis, Möhren, Ingwer und Zwiebel schälen, würfeln und in Kürbiskernöl andünsten. Dann mit der Brühe aufgießen und ca. 20 Minuten weich kochen. Dann mit dem Handmixxer sehr fein pürieren, eventuell durch ein Sieb streichen. Nun die Kokosmilch unterrühren und mit Salz, Pfeffer, Sojasauce und Zitronensaft abschmecken und nochmals erwärmen. In einer kleinen Pfanne die Kürbiskerne auf leichter Stufe in Kürbiskernöl kurz anbraten. Die Suppe mit den Kernen und einem Schuss Kürbiskernöl garnieren und servieren."
+    },
+    {
+      "id": "schinken-schnecken",
+      "type": "baking-recipe",
+      "title": "Schinken-Schnecken",
+      "author": "Nils & Kathi",
+      "date": "2022-10-16",
+      "idTiktok": "7155160828180843782",
+      "idInstagram": "CjyGGY-oWmr",
+      "idYoutube": "EaAVXaAlQVU",
+      "description": "Schnell und sehr einfach",
+      "tags": ["fleisch"],
+      "durationCook": 10,
+      "durationWork": 5,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Blätterteig"
+        },
+        {
+          "amount": 1,
+          "type": "Becher",
+          "name": "Schmand"
+        },
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Schinkenwürfel"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Geriebener Emmentaler"
+        }
+      ],
+      "content": "Blätterteig ausrollen und den Schmand aus der kompletten Fläche vertreichen. Nun die Schinkenwürfel darüber verteilen und nach belieben mit Salz und Pfeffer würzen. Nun den Käse verteilen und den Blätterteig auf der langen Seite rollen. Daumenbreite Röllchen von Teigrolle schneiden und auf ein Backblech legen. Optional kann man über die Schnecken Käse verteilen, damit sie überbacken werden. Bei 200 Grad Ober-/Unterhitze goldbraun backen, aus dem Backofen holen und abkühlen lassen."
+    },
+    {
+      "id": "rouladen",
+      "type": "cooking-recipe",
+      "title": "Rouladen",
+      "author": "Nils & Kathi",
+      "date": "2022-10-18",
+      "idTiktok": "7155882434007993606",
+      "idInstagram": "Cj3GszooblB",
+      "idYoutube": "hHBv7_52xpc",
+      "description": "Das liebt jeder",
+      "tags": ["laktosefrei", "fleisch"],
+      "durationCook": 120,
+      "durationWork": 30,
+      "difficulty": "Mittel",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Rouladenfleisch"
+        },
+        {
+          "amount": 4,
+          "type": "TL",
+          "name": "Senf"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 8,
+          "type": null,
+          "name": "Baconstreifen"
+        },
+        {
+          "amount": 8,
+          "type": null,
+          "name": "Essiggurken"
+        },
+        {
+          "amount": 3,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 8,
+          "type": null,
+          "name": "Zahnstocher"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Butter"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Suppengrün"
+        },
+        {
+          "amount": 1,
+          "type": "Zehe",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Rotwein (Le Sweet Filou)",
+          "ref": "https://amzn.to/3VGZ9VS"
+        },
+        {
+          "amount": 50,
+          "type": "ml",
+          "name": "Gurkenwasser"
+        },
+        {
+          "amount": 4,
+          "type": "EL",
+          "name": "Tomatenmark"
+        },
+        {
+          "amount": 4,
+          "type": "EL",
+          "name": "Gemüsebrühe"
+        }
+      ],
+      "content": "Das Rouladenfleisch wird in folgender Reihenfolge belegt: Ein Teelöffel Senf (vertreichen), Salz und Pfeffer würzen, Zwei Baconstreifen. Essiggurken (in Scheiben) und eine handvoll Zwiebelwürfel (Eine Zwiebel bitte aufheben. Diese wird für die Soße benötigt). Nun fest zusammenrollen und dabei die Außenkanten nach innen drücken, damit nichts aus der Rolle fallen kann. Danach mit zwei Zahnstocher zumachen/befestigen. Das Ganze für alle Rouladen wiederholen.<br /><br />Sobald alle Rouladen fertig gerollt sind, in einem großen (Schmor-)Topf mit Butter scharf anbraten. Hierbei die Rouladen immer wieder drehen, bis alle Seiten schön braun sind. Nun die Zwiebelwürfel der übrigen Zwiebel und das klein geschnittene Suppengrün mit andünsten. Dann Knoblauch hinzupressen. Das Ganze mit Rotwein ablöschen, Gurkenwasser, Tomatenmark, Gemüsebrühe, Salz und Pfeffer hinzufügen und mit Wasser aufgießen. Nun für mind. 120 Minuten köcheln lassen (umrühren nicht vergessen) und am besten mit Spätzle und Rotkohl servieren."
+    },
+    {
+      "id": "yorkshire-pudding",
+      "type": "baking-recipe",
+      "title": "Yorkshire Pudding",
+      "author": "Nils & Kathi",
+      "date": "2022-10-19",
+      "idTiktok": "7156254007059549446",
+      "idInstagram": "Cj5rG-0jvOF",
+      "idYoutube": "rL0JfXQ3iM4",
+      "description": "Sehr beliebt in der englischen Küche",
+      "tags": ["vegetarisch"],
+      "durationCook": 60,
+      "durationWork": 30,
+      "difficulty": "Mittel",
+      "portions": 12,
+      "ingredients": [
+        {
+          "amount": 12,
+          "type": "EL",
+          "name": "Speiseöl"
+        },
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Eier"
+        },
+        {
+          "amount": 120,
+          "type": "g",
+          "name": "Mehl"
+        },
+        {
+          "amount": 200,
+          "type": "ml",
+          "name": "Milch"
+        },
+        {
+          "amount": 0.5,
+          "type": "TL",
+          "name": "Salz"
+        }
+      ],
+      "content": "Zuerst den Backofen auf 220 Grad Ober- und Unterhitze vorheizen. Dann die Mulden der Muffinform mit jeweils einem Teelöffel Öl einpinseln. Die Eier gut verrühren, Mehl untermischen und dann die Milch unter Rühren dazugeben. Nun das Salz hinzufügen und den Teig ca. 20 Minuten ruhen lassen.<br /><br />Die Muffinform in den Backofen stellen und 5 Minuten heiß werden lassen. Dann aus dem Backofen nehmen und den Teig schnell in die Mulden gießen, bis ca. die Hälfte der Mulde gefüllt ist. Die Form sofort wieder in den Backofen packen und 15-20 goldbraun backen. Der Backofen darf während des Vorgangs nicht geöffnet werden, da der Teig sonst zusammenfällt. Aus dem Ofen nehmen und nach belieben füllen."
+    },
+    {
+      "id": "schwaebische-linsen-mit-spaetzle-und-saitenwuerstchen",
+      "type": "cooking-recipe",
+      "title": "Schwäbische Linsen mit Spätzle und Saitenwürstchen",
+      "author": "Sandra (Nils' Mama)",
+      "date": "2022-10-21",
+      "idTiktok": "7156995795953224966",
+      "idInstagram": "Cj-06R0oiEc",
+      "idYoutube": "-oO2L2NT85I",
+      "description": "Ein Lieblingsessen von Nils",
+      "tags": ["schwäbisch", "laktosefrei"],
+      "durationCook": 120,
+      "durationWork": 35,
+      "difficulty": "Mittel",
+      "portions": 10,
+      "ingredients": [
+        {
+          "amount": 10,
+          "type": "Scheiben",
+          "name": "Bauchspeck"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Suppengrün"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Linsen"
+        },
+        {
+          "amount": 5,
+          "type": "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": 6,
+          "type": null,
+          "name": "Saitenwürstchen (vom Metzger)"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Essig (Altmeister von Hengstenberg)",
+          "ref": "https://amzn.to/3TUJxwu"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Zwei Scheiben des Bauchspecks, das Suppengrün und die Zwiebel klein würfeln. Die restlichen Bauchspecks dritteln. Nun das Suppengrün, die Bauchspeckwürfel mit Butter und Zwiebeln gut anbraten. Dann mit Wasser auffüllen und den restlichen Speck, die Linsen und Gemüsebrühe hinzugeben. Das Ganze nun 60 Minuten köcheln lassen. Zum Schluss die Saitenwürstchen hineinlegen und mit Essig, Salz und Pfeffer abschmecken."
+    },
+    {
+      "id": "bechamelsauce",
+      "type": "cooking-recipe",
+      "title": "Béchamelsauce",
+      "author": "Nils & Kathi",
+      "date": "2022-10-22",
+      "idTiktok": "7157367668838829318",
+      "idInstagram": "CkBaGi_I7A0",
+      "idYoutube": "Ixzhv-Vhxrs",
+      "description": "Passend zu Tortellinis oder Nudeln",
+      "tags": ["vegetarisch"],
+      "durationCook": 10,
+      "durationWork": 5,
+      "difficulty": "Mittel",
+      "portions": 2,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Mehl"
+        },
+        {
+          "amount": 200,
+          "type": "ml",
+          "name": "Milch"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Muskatnuss"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Chilli"
+        }
+      ],
+      "content": "Zwiebel klein würfeln und mit Butter glassig braten. Mehl hinzufügen, umrühren und mit Milch aufgießen. Aufkochen lassen und dann mit Muskatnuss, Gemüsebrühe, Salz und Pfeffer (optional noch Chilli) abschmecken und mit Tortellinis oder Nudeln servieren."
+    },
+    {
+      "id": "lauchsuppe",
+      "type": "cooking-recipe",
+      "title": "Lauchsuppe",
+      "author": "Nils & Kathi",
+      "date": "2022-10-23",
+      "idTiktok": "7157756926699375877",
+      "idInstagram": "CkEHG-dIJ1M",
+      "idYoutube": "qPELspgNx08",
+      "description": "Eine unserer Favoriten unter den Vorspeisen",
+      "tags": ["fleisch"],
+      "durationCook": 20,
+      "durationWork": 20,
+      "difficulty": "Mittel",
+      "portions": 6,
+      "ingredients": [
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Lauchstangen"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Kartoffel"
+        },
+        {
+          "amount": 50,
+          "type": "g",
+          "name": "Schinkenwürfel"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Oregano"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Muskatnuss"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Weißwein"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Crème fraîche"
+        }
+      ],
+      "content": "Lauchstangen klein schneiden und waschen. Kartoffel schälen und in kleine Würfel schneiden. Nun die Schinkenwürfel in einem Topf anbraten und aus dem entstandenen Saft entnehmen. In den Saft nun das kleingeschnittene (Lauchstangen und Kartoffel) hinzufügen und gut anbraten. Nun mit Wasser auffüllen, bis gerade so alles bedeckt ist. Gemüsebrühe hinzugeben und köcheln lassen, bis alles durch ist.<br /><br/>Ca. 1 Drittel der Masse entfernen und den Rest mit einem Handmixxer pürieren. Nun das entfernte Drittel wieder hinzugeben. Nun mit Gemüsebrühe, Muskatnuss, Salz und Pfeffer würzen. Zum Schluss etwas Weißwein und die Crème fraîche unterrühren und servieren."
+    },
+    {
+      "id": "spaghetti",
+      "type": "cooking-recipe",
+      "title": "Spaghetti mit Zimt, Lorbeerblätter und Nelken",
+      "author": "Nils & Kathi",
+      "date": "2022-10-24",
+      "idTiktok": "7158110196118621446",
+      "idInstagram": "CkGj3I7IW_Y",
+      "idYoutube": "g2ciM6hvCx0",
+      "description": "Perfekte Alternative zu Bolognese und das sogar vegan.",
+      "tags": ["laktosefrei", "vegetarisch", "vegan"],
+      "durationCook": 60,
+      "durationWork": 5,
+      "difficulty": "Leicht",
+      "portions": 6,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": "Zehe",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Olivenöl"
+        },
+        {
+          "amount": 700,
+          "type": "g",
+          "name": "Passierte Tomaten (von Mutti)",
+          "ref": "https://amzn.to/3DFvFkt"
+        },
+        {
+          "amount": 7,
+          "type": null,
+          "name": "Lorbeerblätter"
+        },
+        {
+          "amount": 7,
+          "type": null,
+          "name": "Nelken"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Oregano"
+        },
+        {
+          "amount": 1,
+          "type": "Messerspitze",
+          "name": "Zimt"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Chilli (optional)"
+        }
+      ],
+      "content": "Knoblauch in Olivenöl anbraten und dann die passierte Tomaten, Lorbeerblätter, Nelken, Salz, Pfeffer, Oregano, (optional Chilli) und Zimt hinzugeben und für circa 60 Minuten köcheln lassen und genießen."
+    },
+    {
+      "id": "sweet-tiramisu",
+      "type": "baking-recipe",
+      "title": "Beeren Tiramisu",
+      "author": "Nils & Kathi",
+      "date": "2022-10-25",
+      "idTiktok": "7158480027070319878",
+      "idInstagram": "CkJIEVPoJbn",
+      "idYoutube": "tNV7b_LpIKg",
+      "description": "Verdammt lecker",
+      "tags": ["vegetarisch"],
+      "durationCook": 120,
+      "durationWork": 35,
+      "difficulty": "Mittel",
+      "portions": 6,
+      "ingredients": [
+        {
+          "amount": 200,
+          "type": "g",
+          "name": "Mascarpone"
+        },
+        {
+          "amount": 500,
+          "type": "g",
+          "name": "Quark (20% Fett)"
+        },
+        {
+          "amount": 3,
+          "type": null,
+          "name": "Eigelb"
+        },
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Zucker"
+        },
+        {
+          "amount": 3,
+          "type": "Blätter",
+          "name": "Gelatine"
+        },
+        {
+          "amount": 300,
+          "type": "ml",
+          "name": "Sahne"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Gefr. Beerenmix"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Gefr. Himbeeren"
+        },
+        {
+          "amount": 1,
+          "type": "kl. Glas",
+          "name": "Johannisbeermarmelade oder -gelee"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Löffelbiscuits"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Kakaopulver oder Schokoladensplitter (optional)"
+        }
+      ],
+      "content": "Den tiefgefrorenen Beeren auftauen lassen und dabei den Saft auffangen. Am besten hierfür in eine Sieb-/Salatschüssel geben und einige Beeren zum Verzieren auf die Seite legen.<br /><br />Die Mascarpone mit Quark und Saft der Früchte cremig rühren und ein wenig vom Zucker dazu geben. Dann vorsichtig die Hälfte der Früchte unterheben. Die Blattgelatine nach Packungsanleitung in Wasser einweichen. Eigelb mit dem restlichen Zucker im Wasserbad schaumig schlagen. Dabei nicht zu heiß werden lassen, sonst gerinnt es. Die Gelatine ausdrücken, in der Eiermasse auflösen und dann unter die Beerencreme heben. Nun die Sahne schlagen und unterheben.<br /><br />Nun zum Schichten: Zuerst eine Schicht Löffelbiskuits in die Form legen (wir empfehlen die IKEA KONCIS Ofenform, da passt alles für sechs Portionen perfekt hinein), dann eine Schicht Creme darauf verteilen. Die restlichen Beeren und das Johannisbeergelee löffelweise darauf geben. Noch einmal Löffelbiskuits und noch einmal Schicht Creme. Dann noch den halben Becher Sahne schlagen und oben drauf verteilen. Mit Beeren, Kakaopulver oder Schokoladensplittern nach Belieben verzieren. Nun mind. 2 Stunden im Kühlschrank ruhen lassen."
+    },
+    {
+      "id": "guacamole",
+      "type": "other-recipe",
+      "title": "Guacamole",
+      "author": "Nils & Kathi",
+      "date": "2022-10-27",
+      "idTiktok": "7159222982907415814",
+      "idInstagram": "CkORsPZI7Bw",
+      "idYoutube": "2Z8L4LOleiQ",
+      "description": "Avocado-Dip aus der mexikanischen Küche",
+      "tags": ["vegetarisch"],
+      "durationCook": 0,
+      "durationWork": 15,
+      "difficulty": "Leicht",
+      "portions": 2,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Avocado"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zitrone"
+        },
+        {
+          "amount": 1,
+          "type": "Zehe",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Joghurt"
+        },
+        {
+          "amount": 6,
+          "type": null,
+          "name": "Tomaten (klein)"
+        }
+      ],
+      "content": "Avocado entkernen und in einen Mixbehälter geben. Knoblauch dazupressen und Saft der Zitrone, Salz, Pfeffer und Joghurt hinzugeben. Alles gut mixxen, bis eine einheitliche Farbe entsteht. Die kleinen Tomaten vierteln und unterrühren. Und fertig ist der leckere Avocado-Dip."
+    },
+    {
+      "id": "himbeer-cocktail",
+      "type": "other-recipe",
+      "title": "Himbeer-Cocktail",
+      "author": "Nils & Kathi",
+      "date": "2022-10-29",
+      "idTiktok": "7159964233164197126",
+      "idInstagram": "CkTbPSmoXu8",
+      "idYoutube": "mqK6stfIyd8",
+      "description": "Cocktail nach Kathi's Art",
+      "tags": ["vegetarisch", "vegan", "laktosefrei"],
+      "durationCook": 0,
+      "durationWork": 5,
+      "difficulty": "Leicht",
+      "portions": 2,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": "cl",
+          "name": "Pfirischlikör"
+        },
+        {
+          "amount": 1,
+          "type": "cl",
+          "name": "Pfirischsirup",
+          "ref": "https://amzn.to/3NpVrMU"
+        },
+        {
+          "amount": 1,
+          "type": "cl",
+          "name": "Himbeerlikör",
+          "ref": "https://amzn.to/3SIeaUZ"
+        },
+        {
+          "amount": 500,
+          "type": "ml",
+          "name": "Orangensaft"
+        },
+        {
+          "amount": 100,
+          "type": "ml",
+          "name": "Cranberrysaft",
+          "ref": "https://amzn.to/3Ng9apq"
+        }
+      ],
+      "content": "Alle Zutaten bis auf den Cranberrysaft in einem Shaker gut shaken. In zwei Gläser verteilen und mit Cranberrysaft auffüllen und genießen."
+    },
+    {
+      "id": "ueberbackene-zucchini",
+      "type": "cooking-recipe",
+      "title": "Überbackene Zucchini",
+      "author": "Nils & Kathi",
+      "date": "2022-10-31",
+      "idTiktok": "7161464730408848646",
+      "idInstagram": "CkYrifiog09",
+      "idYoutube": "20XK9baDFG0",
+      "description": "Super schnell und super einfach",
+      "tags": ["fleisch"],
+      "durationCook": 20,
+      "durationWork": 15,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Zucchinis"
+        },
+        {
+          "amount": 400,
+          "type": "g",
+          "name": "Rinderhackfleisch"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Geriebener Käse"
+        }
+      ],
+      "content": "Zucchinis hälften und das Innere aushüllen. Das Ausgehüllte mit dem Hackfleisch gut kneten und mit Salz und Pfeffer würzen. Zucchinis nun wieder mit dieser Masse befüllen. Nun den Käse über die Zucchinis geben und für 200 Grad Ober-/Unterhitze für ca. 20 min. in den Backofen packen und servieren."
+    },
+    {
+      "id": "tuerkische-huehnerschenkel",
+      "type": "cooking-recipe",
+      "title": "Türkische Hühnerschenkel",
+      "author": "Nils & Kathi",
+      "date": "2022-11-02",
+      "idTiktok": "7161464730408848646",
+      "idInstagram": "Ckd1iX_ofuY",
+      "idYoutube": "ZIyxmxd-1XM",
+      "description": "Leckeres und einfaches One Pot Gericht",
+      "tags": ["fleisch", "laktosefrei"],
+      "durationCook": 60,
+      "durationWork": 15,
+      "difficulty": "Leicht",
+      "portions": 5,
+      "ingredients": [
+        {
+          "amount": 5,
+          "type": null,
+          "name": "kleine Hühnerschenkel"
+        },
+        {
+          "amount": 3,
+          "type": null,
+          "name": "große Gemüsezwiebeln"
+        },
+        {
+          "amount": 6,
+          "type": null,
+          "name": "Karotten"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Wasser"
+        },
+        {
+          "amount": 5,
+          "type": "EL",
+          "name": "Thymian"
+        },
+        {
+          "amount": 5,
+          "type": "EL",
+          "name": "Salz"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Türkischer Reis",
+          "to": "/rezept/tuerkischer-reis"
+        }
+      ],
+      "content": "Gemüsezwiebeln schälen und vierteln. Die Karotten schälen, längs halbieren und dann dritteln. Nun in einen Topf die Hühnerschenkel, Zwiebel und Karotten hineinlegen. Nun mit Salz und Thymian würzen und mit Wasser auffüllen, bis es gerade so bedeckt ist. Das Ganze für mind. 60 Minuten köcheln lassen und am besten mit dem türkischen Reis servieren."
+    },
+    {
+      "id": "tuerkischer-reis",
+      "type": "cooking-recipe",
+      "title": "Türkischer Reis",
+      "author": "Nils & Kathi",
+      "date": "2022-11-03",
+      "idTiktok": "7161835550855531782",
+      "idInstagram": "CkgaYgeIliT",
+      "idYoutube": "X9sQWPuelts",
+      "description": "Reis mal anders",
+      "tags": ["vegetarisch"],
+      "durationCook": 20,
+      "durationWork": 5,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 200,
+          "type": "g",
+          "name": "Basmatireis"
+        },
+        {
+          "amount": 200,
+          "type": "g",
+          "name": "Türkische Nudeln (SUNTAT Biava Reis)",
+          "ref": "https://amzn.to/3WgPNk0"
+        },
+        {
+          "amount": 50,
+          "type": "g",
+          "name": "Butter"
+        }
+      ],
+      "content": "Basmatireis wie gewohnt zubereiten. Nun die türkischen Nudeln köcheln lassen, bis sie durch sind. Dann abschöpfen und mit Butter bisschen anbraten lassen. Den Basmatireis unterrühren und servieren."
+    },
+    {
+      "id": "crepes",
+      "type": "baking-recipe",
+      "title": "Crêpes",
+      "author": "Nils & Kathi",
+      "date": "2022-11-04",
+      "idTiktok": "7162206330227346694",
+      "idInstagram": "Cki-3qmISml",
+      "idYoutube": "q7htsuC4eew",
+      "description": "Mit Nutella, Früchten, Apfelmus oder Zimt und Zucker einfach lecker",
+      "tags": ["vegetarisch"],
+      "durationCook": 30,
+      "durationWork": 15,
+      "difficulty": "Leicht",
+      "portions": 8,
+      "ingredients": [
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Weizenmehl"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Eier"
+        },
+        {
+          "amount": 250,
+          "type": "ml",
+          "name": "Wasser"
+        },
+        {
+          "amount": 250,
+          "type": "ml",
+          "name": "Milch"
+        },
+        {
+          "amount": 50,
+          "type": "g",
+          "name": "flüssige Butter"
+        },
+        {
+          "amount": 1,
+          "type": "Prise",
+          "name": "Salz"
+        },
+        {
+          "amount": 50,
+          "type": "g",
+          "name": "Zucker"
+        }
+      ],
+      "content": "Weizenmehl mit Eier und Wasser verrühren. Dann Milch, Butter (flüssige), Salz und Zucker hinzufügen und nochmals verrühren. Pro Crêpe einen Schöpfer Teig auf den Crêpesmaker geben, warten und mit Nutella, Früchten, Apfelmus oder Zimt und Zucker zubereiten und genießen."
+    },
+    {
+      "id": "frittata",
+      "type": "cooking-recipe",
+      "title": "Frittata",
+      "author": "Sandra (Nils' Mama)",
+      "date": "2022-11-05",
+      "idTiktok": "7162602766056066309",
+      "idInstagram": "CklvCJwooAS",
+      "idYoutube": "W02ixgfMC40",
+      "description": "Leckerer Eierkuchen mit Tomatensoße",
+      "tags": ["vegetarisch"],
+      "durationCook": 30,
+      "durationWork": 15,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": "Bund",
+          "name": "Petersilie"
+        },
+        {
+          "amount": 5,
+          "type": null,
+          "name": "Eier"
+        },
+        {
+          "amount": 0.5,
+          "type": "Pck.",
+          "name": "Parmesan"
+        },
+        {
+          "amount": 2,
+          "type": "TL",
+          "name": "Oregano"
+        },
+        {
+          "amount": 700,
+          "type": "g",
+          "name": "Passierte Tomaten (von Mutti)",
+          "ref": "https://amzn.to/3DFvFkt"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Knoblauchöl",
+          "to": "/rezept/knoblauchoel"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Für die Frittatas muss die Petersilie klein geschnitten werden und mit den Eiern, Parmesan und Oregano in einer Schüssel umgerührt werden. Nun diese Flüssigkeit in einer Pfanne bei geringer Stufe mit ein wenig Knoblauchöl braten. Sobald möglich den Fladen vierteln und mit einem Pfannenwender wenden. Wenn die Frittatas fertig sind auf einen Teller geben. In dieser Pfanne nun die passierten Tomaten mit wenig Knoblauchöl, Salz und Pfeffer aufkochen lassen und dann mit den Frittatas für mind. 15 Minuten köcheln lassen und mit Nudeln servieren."
+    },
+    {
+      "id": "karpfenfilet",
+      "type": "cooking-recipe",
+      "title": "Karpfenfilet",
+      "author": "Nils & Kathi",
+      "date": "2022-11-06",
+      "idTiktok": "7162949314417806598",
+      "idInstagram": "CkoIajvIhoq",
+      "idYoutube": "y-8GHZq7uhI",
+      "description": "Selbstgefangen schmeckts am besten",
+      "tags": ["fisch"],
+      "durationCook": 15,
+      "durationWork": 15,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Karpfen"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Butter"
+        }
+      ],
+      "content": "Karpfen filitieren und die Filets in der Pfanne mit Butter auf der Seite der Haut anbraten. Sobald es leicht weiß auf der oberen Hälfte wird, mit einem Löffel oder Kelle die Butter sollange immer wieder über die Filets schwenken, bis sie durch sind und genießen."
+    },
+    {
+      "id": "schokosahnetorte",
+      "type": "baking-recipe",
+      "title": "Schokosahnetorte",
+      "author": "Nils & Kathi",
+      "date": "2022-11-07",
+      "idTiktok": "7163322183672990982",
+      "idInstagram": "CkquZz2oJNv",
+      "idYoutube": "gurbl0tuuFU",
+      "description": "Lecker und einfache Geburtstagstorte zum Nachbacken",
+      "tags": ["vegetarisch"],
+      "durationCook": 45,
+      "durationWork": 30,
+      "difficulty": "Leicht",
+      "portions": 12,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Tortenboden (schoko, 3-lagig)"
+        },
+        {
+          "amount": 6,
+          "type": "Becher",
+          "name": "Sahne"
+        },
+        {
+          "amount": 3,
+          "type": "Tafeln",
+          "name": "zartbitter Schokolade"
+        },
+        {
+          "amount": 6,
+          "type": "EL",
+          "name": "Erdbeermarmelade"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Wasser"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Schokoraspeln (optional)"
+        }
+      ],
+      "content": "Die zartbitter Schokolade in einem Topf mit der Sahne schmelzen und zum Kochen bringen. Anschließend abkühlen lassen und über Nacht in den Kühlschrank stellen. Am nächsten Tag diese Masse mit Sahnesteif und einem Handrührgerät schlagen. Marmelade mit wenig Wasser mischen bis es leicht wässrig ist. Nun wie folgt in einer Backform schichten: Tortenboden, Marmelade und Schokosahne. Sobald alle fertig ist, aus der Backform nehmen und rundherum die restliche Sahne verteilen. Gerne auch mit einem Spritzbeutel und Schokoraspeln verzieren."
+    },
+    {
+      "id": "honigquark",
+      "type": "baking-recipe",
+      "title": "Honigquark",
+      "author": "Nils & Kathi",
+      "date": "2022-11-08",
+      "idTiktok": "7163690842719374598",
+      "idInstagram": "CktR5gTo1Ml",
+      "idYoutube": "JRAKJ2po28M",
+      "description": "Gesunder und schneller Nachtisch",
+      "tags": ["vegetarisch"],
+      "durationCook": 0,
+      "durationWork": 5,
+      "difficulty": "Leicht",
+      "portions": 2,
+      "ingredients": [
+        {
+          "amount": 200,
+          "type": "g",
+          "name": "Magerquark"
+        },
+        {
+          "amount": 3,
+          "type": "EL",
+          "name": "Milch"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Honig"
+        }
+      ],
+      "content": "Als Erstes den Magerquark mit der Milch mischen. Dann den Honig hinzugeben und nochmals umrühren und fertig."
+    },
+    {
+      "id": "blumenkohlsuppe",
+      "type": "cooking-recipe",
+      "title": "Blumenkohlsuppe",
+      "author": "Nils & Kathi",
+      "date": "2022-11-09",
+      "idTiktok": "7164062652166098182",
+      "idInstagram": "Ckv2q57owCS",
+      "idYoutube": "BjR8BdtaH1c",
+      "description": "Unbedingt ausprobieren, schmeckt sehr lecker",
+      "tags": ["vegetarisch"],
+      "durationCook": 30,
+      "durationWork": 20,
+      "difficulty": "Mittel",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Blumenkohl"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Wasser"
+        },
+        {
+          "amount": 1,
+          "type": "kleine",
+          "name": "Zwiebel"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Speiseöl"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Mehl"
+        },
+        {
+          "amount": 3,
+          "type": "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": 1,
+          "type": "Becher",
+          "name": "Sahne"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Eigelb"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": null,
+          "type": "Handvoll",
+          "name": "frische Petersilie"
+        }
+      ],
+      "content": "Blumenkohl in eine große Schüssel schneiden, mit Wasser auffüllen und mind. 30 Minuten ruhen lassen. Sofern die Ruhezeit vorbei ist, den Blumenkohl für ca 20 Minuten in Wasser köcheln lassen. In der Zwischenzeit die Zwiebel in kleine Würfel schneiden und in Speiseöl anbraten. Dann Mehl hinzugeben, umrühren und mit Wasser ca. 200ml aufgießen und Gemüsebrühe hinzugeben. Nun 2/3 des gekochten Blumenkohl in diese Brühe geben und mit einem Handrühgerät mixxen. In einer seperaten Schüssel die Sahne mit Eigelb verühren und dann der gemixxten Masse unterrühren. Jetzt mit Salz und Pfeffer abschmecken, kleingeschnittene Petersilie und den restlichen Blumenkohl hinzugeben. Das Ganze gut umrühren und servieren."
+    },
+    {
+      "id": "lammkoteletts",
+      "type": "cooking-recipe",
+      "title": "Lammkoteletts",
+      "author": "Nils & Kathi",
+      "date": "2022-11-10",
+      "idTiktok": "7164433407831772422",
+      "idInstagram": "CkybiMeouj9",
+      "idYoutube": "t8LRmQloMf4",
+      "description": "Verdammt saftiges Fleisch",
+      "tags": ["laktosefrei","fleisch"],
+      "durationCook": 20,
+      "durationWork": 5,
+      "difficulty": "Leicht",
+      "portions": 2,
+      "ingredients": [
+        {
+          "amount": 6,
+          "type": null,
+          "name": "Lammkoteletts"
+        },
+        {
+          "amount": 3,
+          "type": "Zweige",
+          "name": "Rosmarin"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Speiseöl"
+        }
+      ],
+      "content": "Tipp: Lammkoteletts können oftmals preiswert in türkischen Läden gekauft werden.<br /><br />Pfanne mit Speiseöl und Rosmarinzweigen aus mittlerer Stufe vorheizen. Nun die Lammkoteletts hineinlegen und warten bis die untere Seite golbraun ist und dann umdrehen. Sobald das Fleisch fertig ist, servieren und genießen."
+    },
+    {
+      "id": "lasagne",
+      "type": "cooking-recipe",
+      "title": "Lasagne",
+      "author": "Nils & Kathi",
+      "date": "2022-11-12",
+      "idTiktok": "7164804897081183493",
+      "idInstagram": "Ck1BIpYIVIG",
+      "idYoutube": "JXsrHcLpY5U",
+      "description": "Wie bei deinem Lieblingsitaliener",
+      "tags": ["fleisch"],
+      "durationCook": 45,
+      "durationWork": 30,
+      "difficulty": "Mittel",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 3,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 300,
+          "type": "g",
+          "name": "Hackfleisch (gemischt)"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Speiseöl"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Basilikum"
+        },
+        {
+          "amount": 1,
+          "type": "EL",
+          "name": "Oregano"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 700,
+          "type": "g",
+          "name": "Passierte Tomaten (von Mutti)",
+          "ref": "https://amzn.to/3DFvFkt"
+        },
+        {
+          "amount": 3,
+          "type": "EL",
+          "name": "Tomatenmark (von Mutti)",
+          "ref": "https://amzn.to/3TvJl6t"
+        },
+        {
+          "amount": 200,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 2,
+          "type": "EL",
+          "name": "Mehl"
+        },
+        {
+          "amount": 400,
+          "type": "ml",
+          "name": "Milch"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Muskatnuss"
+        },
+        {
+          "amount": 4,
+          "type": "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": 8,
+          "type": "Stück",
+          "name": "Nudelblätter (Barilla Collezione)",
+          "ref": "https://amzn.to/3tvN7BO"
+        },
+        {
+          "amount": 200,
+          "type": "g",
+          "name": "geriebener Emmentaler"
+        }
+      ],
+      "content": "Für die Hackfleischsoße eine Zwiebel in kleine Würfel schneiden und mit dem Speiseöl, Hackfleisch und Tomatenmark anbraten. Dann die passierte Tomaten dazugeben und bisschen köcheln lassen.<br /><br /> Für die Bechamelsoße einen seperaten Topf nehmen. Die restlichen Zwiebeln klein würfeln und mit Butter glassig braten. Mehl hinzufügen, umrühren und mit Milch aufgießen. Aufkochen lassen und dann mit Muskatnuss, Gemüsebrühe, Salz und Pfeffer (optional noch Chilli) abschmecken.<br /><br />Nun in eine Auflaufform die Lasagne wie folgt schichten (4mal): Bechamelsoße, Hackfleischsoße, 2 Nudelblätter. Die letzte Schicht ohne Nudelblätter.<br /><br />Als letztes den geriebenen Käse drüber streuen und bei 200 Grad Ober-/Unterhitze für 30-45 Minuten in den Backofen packen und servieren."
+    },
+    {
+      "id": "brownies",
+      "type": "baking-recipe",
+      "title": "Brownies",
+      "author": "Nils & Kathi",
+      "date": "2022-11-12",
+      "idTiktok": "7165174932521880837",
+      "idInstagram": "Ck3lKzmomW9",
+      "idYoutube": "9YqtCNDc8ts",
+      "description": "Leckere Kalorienbombe",
+      "tags": ["vegetarisch"],
+      "durationCook": 25,
+      "durationWork": 20,
+      "difficulty": "Mittel",
+      "portions": 16,
+      "ingredients": [
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Zartbitterschokolade"
+        },
+        {
+          "amount": 175,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Vannilinzucker"
+        },
+        {
+          "amount": 225,
+          "type": "g",
+          "name": "brauner Zucker"
+        },
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Mehl"
+        },
+        {
+          "amount": 0.5,
+          "type": "TL",
+          "name": "Salz"
+        },
+        {
+          "amount": 0.5,
+          "type": "TL",
+          "name": "Backpulver"
+        },
+        {
+          "amount": 3,
+          "type": null,
+          "name": "Eier"
+        }
+      ],
+      "content": "Backofen auf 180 Grad vorheizen und Backform mit Backpapier auslegen.<br /><br /> Als Erstes die Schokolade mit der Butter in einem Wasserbad schmelzen lassen. Dann vom Herd nehmen und Vanillinzucker und den anderen Zucker unterrühren, bis der Zucker aufgelöst ist. Diese Masse abkühlen lassen.<br /><br />In der Zwischenzeit das Mehl mit Salz und Backpulver mischen. Dann die Eier unter die gekühlte Schokomasse rühren und mit der Mehlmischung vermengen.<br /><br />Die Masse in die vorbereitete Form gießen und glatt streichen. Im Backofen dann bei 180 Grad Umluft für 20-25 Minuten backen. Die Brownies müssen durch aber innen drin feucht sein. Abkühlen lassen und genießen."
+    },
+    {
+      "id": "brownies",
+      "type": "baking-recipe",
+      "title": "Brownies",
+      "author": "Nils & Kathi",
+      "date": "2022-11-12",
+      "idTiktok": "7165174932521880837",
+      "idInstagram": "Ck3lKzmomW9",
+      "idYoutube": "9YqtCNDc8ts",
+      "description": "Leckere Kalorienbombe",
+      "tags": ["vegetarisch"],
+      "durationCook": 25,
+      "durationWork": 20,
+      "difficulty": "Mittel",
+      "portions": 16,
+      "ingredients": [
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Zartbitterschokolade"
+        },
+        {
+          "amount": 175,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Vannilinzucker"
+        },
+        {
+          "amount": 225,
+          "type": "g",
+          "name": "brauner Zucker"
+        },
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Mehl"
+        },
+        {
+          "amount": 0.5,
+          "type": "TL",
+          "name": "Salz"
+        },
+        {
+          "amount": 0.5,
+          "type": "TL",
+          "name": "Backpulver"
+        },
+        {
+          "amount": 3,
+          "type": null,
+          "name": "Eier"
+        }
+      ],
+      "content": "Backofen auf 180 Grad vorheizen und Backform mit Backpapier auslegen.<br /><br /> Als Erstes die Schokolade mit der Butter in einem Wasserbad schmelzen lassen. Dann vom Herd nehmen und Vanillinzucker und den anderen Zucker unterrühren, bis der Zucker aufgelöst ist. Diese Masse abkühlen lassen.<br /><br />In der Zwischenzeit das Mehl mit Salz und Backpulver mischen. Dann die Eier unter die gekühlte Schokomasse rühren und mit der Mehlmischung vermengen.<br /><br />Die Masse in die vorbereitete Form gießen und glatt streichen. Im Backofen dann bei 180 Grad Umluft für 20-25 Minuten backen. Die Brownies müssen durch aber innen drin feucht sein. Abkühlen lassen und genießen."
+    },
+    {
+      "id": "gemuese-mit-feta",
+      "type": "cooking-recipe",
+      "title": "Gemüse mit Feta",
+      "author": "Nils & Kathi",
+      "date": "2022-11-13",
+      "idTiktok": "7165547335093652742",
+      "idInstagram": "Ck6KlbKIatI",
+      "idYoutube": "BO3FT-v3U-0",
+      "description": "Schnelles und leckeres Essen",
+      "tags": ["vegetarisch"],
+      "durationCook": 25,
+      "durationWork": 15,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 2,
+          "type":  null,
+          "name": "Zucchini"
+        },
+        {
+          "amount": 5,
+          "type":  null,
+          "name": "Karotten"
+        },
+        {
+          "amount": 1,
+          "type":  null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Speiseöl"
+        },
+        {
+          "amount": 1,
+          "type":  "Pck.",
+          "name": "Feta"
+        },       
+        {
+          "amount": 700,
+          "type": "g",
+          "name": "Passierte Tomaten (von Mutti)",
+          "ref": "https://amzn.to/3DFvFkt"
+        },
+        {
+          "amount": 3,
+          "type":  "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Zuerst Karotten schälen. Dann Karotten und Zucchinis in dünne Scheiben schneiden (halber Finger dick). Die Zwiebel würfeln und mit Speiseöl und den Gemüsescheiben anbraten. Nun die passierte Tomaten hinzugeben, mit Gemüsebrühe, Salz und Pfeffer würzen und köcheln lassen, bis alles gut durch ist. Zum Schluss den Topf vom Herd nehmen und den Feta in kleine Würfel hinzugeben, bisschen warten und umrühren."
+    },
+    {
+      "id": "kartoffelsalat",
+      "type": "cooking-recipe",
+      "title": "Schwäbischer Kartoffelsalat",
+      "author": "Nils & Kathi",
+      "date": "2022-11-14",
+      "idTiktok": "7165919223330508037",
+      "idInstagram": "Ck8vtjioKBK",
+      "idYoutube": "RLkLhxpxxvM",
+      "description": "Rezept von Kathi's Familie",
+      "tags": ["vegetarisch", "vegan", "laktosefrei", "schwäbisch"],
+      "durationCook": 30,
+      "durationWork": 20,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 500,
+          "type":  "g",
+          "name": "Kartoffeln (festkochend)"
+        },
+        {
+          "amount": 1,
+          "type":  "EL",
+          "name": "Senf"
+        },
+        {
+          "amount": 150,
+          "type":  "ml",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Essig (Altmeister von Hengstenberg)",
+          "ref": "https://amzn.to/3TUJxwu"
+        },
+        {
+          "amount": 1,
+          "type":  "EL",
+          "name": "Speiseöl"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Kartoffeln abkochen (ca. 20-30 Minuten), abkühlen lassen und dann schälen. Dann die Kartoffeln in Rädle (schwäbisch für dünne Scheiben) in eine Schüssel/Schale schneiden. Zwiebel klein würfeln und hinzugeben. Dann Senf mit bisschen Gemüsebrühe verdünnen, und wieder hinzugeben. Nun die restliche Gemüsebrühe hinzugeben und mit Salz und Pfeffer würzen."
+    },
+    {
+      "id": "wurstspaetzle",
+      "type": "cooking-recipe",
+      "title": "Schwäbische Wurstspätzle",
+      "author": "Nils & Kathi",
+      "date": "2022-11-15",
+      "idTiktok": "7166288287018142982",
+      "idInstagram": "Ck_TmHKo4W-",
+      "idYoutube": "v8vrsQdjl_s",
+      "description": "Geschabt am besten",
+      "tags": ["schwäbisch", "laktosefrei"],
+      "durationCook": 25,
+      "durationWork": 15,
+      "difficulty": "Einfach",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 400,
+          "type":  null,
+          "name": "Weizenmehl"
+        },
+        {
+          "amount": 4,
+          "type":  null,
+          "name": "Eier"
+        },
+        {
+          "amount": 0,
+          "type": null,
+          "name": "Maggi",
+          "ref": "https://amzn.to/3ESve7f"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 300,
+          "type":  "g",
+          "name": "Geräucherte Schinkenwurst"
+        },
+        {
+          "amount": 500,
+          "type":  "ml",
+          "name": "Gemüsebrühe"
+        }
+      ],
+      "content": "Tipp: Am besten einen schwäbischen Kartoffelsalat dazu machen.<br /><br />Für den Teig die Eier unter das Mehl rühren. Dann Maggi, Salz und Pfeffer hinzugeben und nochmals rühren. Zum Schluss die Schinkenwurst in kleine Würfel schneiden und auch mit in die Masse rühren. Nun die Hälfte der Gemüsebrühe zum Spätzle machen verwenden. Die andere Hälfte wird zum Essen verwendet. Nun Esslösselweise den Spätzlesteig in den Topf mit Gemüsebrühe schaben und aufkochen lassen. Dann die Spätzle in eine Schüssel mit wenig Wasser geben, kurz warten und absieben. Mit Gemüsebrühe servieren und fertig."
+    },
+    {
+      "id": "golden-curry",
+      "type": "cooking-recipe",
+      "title": "Golden Curry",
+      "author": "Nils & Kathi",
+      "date": "2022-11-16",
+      "idTiktok": "7166659655689604358",
+      "idInstagram": "ClB4Qh3IqZj",
+      "idYoutube": "ph92j4VPeHg",
+      "description": "Im Handumdrehen fertig",
+      "tags": ["fleisch"],
+      "durationCook": 20,
+      "durationWork": 10,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 300,
+          "type":  "g",
+          "name": "Lammfleisch"
+        },
+        {
+          "amount": 1,
+          "type":  null,
+          "name": "Kartoffel"
+        },
+        {
+          "amount": 1,
+          "type":  null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 500,
+          "type":  "ml",
+          "name": "Wasser"
+        },
+        {
+          "amount": 1,
+          "type":  null,
+          "name": "Golden Curry Mix von S&B",
+          "ref": "https://amzn.to/3g45sTG"
+        }
+      ],
+      "content": "Zwiebel und Kartoffel schälen und in kleine Würfel schneiden. Das Lammfleisch in Mundgroße Stücke schneiden. Nun alles gut anbraten, mit Wasser aufgießen, köcheln lassen, bis die Kartoffeln durch sind und mit Nudeln oder Reis servieren."
+    },
+    {
+      "id": "spaghetti-aglio-e-olio",
+      "type": "cooking-recipe",
+      "title": "Spaghetti Aglio e Olio",
+      "author": "Nils & Kathi",
+      "date": "2022-11-17",
+      "idTiktok": "7167032845989514502",
+      "idInstagram": "ClEedz8Dzf1",
+      "idYoutube": "1N_zPIqkflw",
+      "description": "Für Knoblauchliebhaber",
+      "tags": ["vegetarisch", "vegan"],
+      "durationCook": 15,
+      "durationWork": 15,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 400,
+          "type":  "g",
+          "name": "Spaghetti Nudeln"
+        },
+        {
+          "amount": 1,
+          "type":  null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Knoblauchöl",
+          "to": "/rezept/knoblauchoel"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Chilli"
+        }
+      ],
+      "content": "Zuerst die Nudeln abkochen. In der Zwischenzeit die Zwiebel in kleine Würfel schneiden. Dann Knoblauchöl in eine Pfanne geben und darin die Zwiebeln anbraten. Nudeln hinzufügen, nach belieben würzen und umrühren."
+    },
+    {
+      "id": "russischer-zupfkuchen",
+      "type": "baking-recipe",
+      "title": "Russischer Zupfkuchen",
+      "author": "Nils & Kathi",
+      "date": "2022-11-19",
+      "idTiktok": "7167773365925661958",
+      "idInstagram": "ClJmy7Kjmyt",
+      "idYoutube": "j9A_DxEHWLU",
+      "description": "Den liebt einfach jeder",
+      "tags": ["vegetarisch"],
+      "durationCook": 60,
+      "durationWork": 45,
+      "difficulty": "Leicht",
+      "portions": 12,
+      "ingredients": [
+        {
+          "amount": 450,
+          "type":  "g",
+          "name": "weiche Butter"
+        },
+        {
+          "amount": 400,
+          "type":  "g",
+          "name": "Zucker"
+        },
+        {
+          "amount": 2,
+          "type":  "Pck.",
+          "name": "Vanillinzucker"
+        },
+        {
+          "amount": 4,
+          "type":  null,
+          "name": "Ei"
+        },
+        {
+          "amount": 40,
+          "type":  "g",
+          "name": "Kakaopulver"
+        },
+        {
+          "amount": 375,
+          "type":  "g",
+          "name": "Weizenmehl"
+        },
+        {
+          "amount": 3,
+          "type":  "TL",
+          "name": "Backpulver"
+        },
+        {
+          "amount": 500,
+          "type":  "g",
+          "name": "Magerquark"
+        },
+        {
+          "amount": 400,
+          "type":  "g",
+          "name": "Spaghetti Nudeln"
+        },
+        {
+          "amount": 1,
+          "type":  "Pck.",
+          "name": "Vanillepuddingpulver"
+        }
+      ],
+      "content": "Für den Teig 200 g weiche Butter in eine Schüssel geben und mit dem Handrührgerät schaumig rühren. 200 g Zucker, 1 Pck. Vanillezucker, 1 Ei und das Kakaopulver dazugeben und unterrühren. Das Mehl mit dem Backpulver mischen, darüber sieben und alles zu einem glatten Teig verarbeiten. Den Teig zu einer Kugel formen, in Frischhaltefolie wickeln und mind. 30 Minuten kalt stellen. Den Backofen auf 200 °C vorheizen und eine Springform mit Backpapier auslegen. Für die Füllung die restliche Butter in einem Topf zerlassen und etwas abkühlen lassen. Die restlichen Eier trennen, das Eiweiß zu steifem Schnee schlagen. Quark, Zucker, Vanillezucker, Vanillepuddingpulver, Eigelb und zerlassene Butter gut mit dem Handrührgerät verrühren. Dann den Eischnee unterheben. Zwei Drittel des kalten Kuchenteigs in die vorbereitete Form andrücken und einen ca. 2 cm hohen Rand formen. Die Quarkfüllung darauf geben und glatt streichen. Den restlichen Teig in Stücke zupfen und auf der Füllung verteilen. Im vorgeheizten Backofen ca. 60 Minuten backen. Den Kuchen herausnehmen, kurz in der Form abkühlen und auf einem Kuchengitter vollständig erkalten lassen."
+    },
+    {
+      "id": "zucchinisosse",
+      "type": "cooking-recipe",
+      "title": "Zucchinisoße",
+      "author": "Kathi's Tante Tanja",
+      "date": "2022-11-20",
+      "idTiktok": "7168144132077079813",
+      "idInstagram": "ClMLhMhD5xc",
+      "idYoutube": "LKiaVGkTOEk",
+      "description": "Kathi's Lieblingsrezept von ihrer Tante",
+      "tags": ["vegetarisch"],
+      "durationCook": 15,
+      "durationWork": 10,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type":  null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Zucchini"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Speiseöl"
+        },
+        {
+          "amount": 3,
+          "type":  "EL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Muskatnuss"
+        },
+        {
+          "amount": 1,
+          "type":  "Becher",
+          "name": "Sahne"
+        }
+      ],
+      "content": "Zwiebel klein schneiden und in Speiseöl anbraten. Dann die Zucchinis in den Topf reiben mit einer Reibe. Nun mit Wasser auffüllen bis alles bedeckt ist, mit Gemüsebrühe, Salz, Pfeffer und Muskatnuss abschmecken, Sahne drüber leeren und köcheln lassen. Am besten mit Nudeln servieren."
+    },
+    {
+      "id": "salzkartoffeln-mit-spinat",
+      "type": "cooking-recipe",
+      "title": "Salzkartoffeln mit Spinat",
+      "author": "Nils & Kathi",
+      "date": "2022-11-21",
+      "idTiktok": null,
+      "idInstagram": null,
+      "idYoutube": "42gceAQo9cs",
+      "description": "Sehr einfaches Rezept",
+      "tags": ["vegetarisch", "laktosefrei"],
+      "durationCook": 35,
+      "durationWork": 15,
+      "difficulty": "Leicht",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 2,
+          "type":  "Pck.",
+          "name": "Rahmspinat"
+        },
+        {
+          "amount": 6,
+          "type": null,
+          "name": "Kartoffeln"
+        },
+        {
+          "amount": 4,
+          "type":  null,
+          "name": "Eier"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Salz und Pfeffer"
+        }
+      ],
+      "content": "Rahmspinataus der Gefriere nehmen und in einem Topf erwärmen. Währenddessen die Kartoffeln schälen und in mittelgroße Würfel schneiden und in Salzwasser abkochen, bis sie durch sind. Dann mit den Eiern ein Spiegelei zubereiten, nach belieben würzen und mit dem Rahmspinat und den Salzkartoffeln servieren."
+    },
+    {
+      "id": "pizza",
+      "type": "baking-recipe",
+      "title": "Der beste Pizzateig mit Tomatensoße",
+      "author": "Nils & Kathi",
+      "date": "2022-11-22",
+      "idTiktok": "7168889564268924166",
+      "idInstagram": "ClRWovlD21a",
+      "idYoutube": "42gceAQo9cs",
+      "description": "Schmeckt wie beim Italiener",
+      "tags": ["vegetarisch", "laktosefrei"],
+      "durationCook": 4,
+      "durationWork": 30,
+      "difficulty": "Mittel",
+      "portions": 4,
+      "ingredients": [
+        {
+          "amount": 500,
+          "type":  "g",
+          "name": "Weizenmehl (Typ 405)"
+        },
+        {
+          "amount": 300,
+          "type": "ml",
+          "name": "Wasser"
+        },
+        {
+          "amount": 2,
+          "type":  "TL",
+          "name": "Salz"
+        },
+        {
+          "amount": 5,
+          "type":  "g",
+          "name": "Frischhefe"
+        },
+        {
+          "amount": 1,
+          "type":  "Dose",
+          "name": "Pizzatomaten"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 4,
+          "type":  "Zehen",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": 1,
+          "type":  "EL",
+          "name": "Zucker"
+        },
+        {
+          "amount": 2,
+          "type":  "EL",
+          "name": "Oregano"
+        },
+        {
+          "amount": 2,
+          "type":  "EL",
+          "name": "Basilikum"
+        }
+      ],
+      "content": "Zuerst das Mehl mit Salz sieben und in eine Teigrührmaschine geben. Nun die Hefe im lauwarmen Wasser auflösen lassen und hinzugeben. Anschließen alles mit für 20 Minuten zu einem elastischen und homogenen Teig kneten lassen.<br /><br />Nach dem Kneten den Teig für 2 Stunden mit einem feuchten Tuch abdecken und ruhen lassen. Danach in vier gleich große Stücke zu je 200 Gramm teilen, in Kugeln formen und nochmals 6 Stunden abgedeckt ruhen lassen.<br /><br />Für die Tomatensoße die Tomaten mit Knoblauch, Salz, Pfeffer, Oregano, Basilikum und etwas Zucker kalt pürieren. Nun den Teig so dünn wie möglich ausrollen oder ziehen. Die Tomatensoße mittig auf dem Teig mit einer Kelle oder einem Schöpfer in kreisrunden Bewegungen verteilen. Bitte nicht zu viel auftragen. Eine gute Pizza sollte man nicht mit Tomatensoße ertränken. Pizza nun nach belieben belegen, den Backofen auf die höchste Temperatur vorheizen (Unserer packt 270 Grad auf der Pizzastufe) und ca. 3-4 Minuten backen."
+    },
+    {
+      "id": "ramen",
+      "type": "cooking-recipe",
+      "title": "Selbstgemachte Ramen",
+      "author": "Nils & Kathi",
+      "date": "2022-11-23",
+      "idTiktok": "7169257615048936709",
+      "idInstagram": "ClT513nDqbj",
+      "idYoutube": "GERdTIeEeTY",
+      "description": "Leckere japanische Ramen",
+      "tags": ["laktosefrei", "fleisch"],
+      "durationCook": 480,
+      "durationWork": 45,
+      "difficulty": "Mittel",
+      "portions": 8,
+      "ingredients": [
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Schweineknochen"
+        },
+        {
+          "amount": 600,
+          "type": "g",
+          "name": "Schweinefleisch"
+        },
+        {
+          "amount": 1,
+          "type":  null,
+          "name": "Lauchstange"
+        },
+        {
+          "amount": 10,
+          "type":  null,
+          "name": "Karotten"
+        },
+        {
+          "amount": 1,
+          "type":  "Pck.",
+          "name": "Pilze"
+        },
+        {
+          "amount": 1,
+          "type":  null,
+          "name": "große Zwiebel"
+        },
+        {
+          "amount": 600,
+          "type":  "ml",
+          "name": "Sojasoßen"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "frischer Ingwer"
+        },
+        {
+          "amount": 4,
+          "type":  "Zehen",
+          "name": "Knoblauch"
+        },
+        {
+          "amount": 8,
+          "type":  null,
+          "name": "Eier"
+        },
+        {
+          "amount": null,
+          "type":  null,
+          "name": "Wasser"
+        },
+
+        {
+          "amount": 2,
+          "type":  "EL",
+          "name": "Oregano"
+        },
+        {
+          "amount": 2,
+          "type":  "EL",
+          "name": "Basilikum"
+        }
+      ],
+      "content": "Schweineknochen in Wasser abkochen, absieben und mit Wasser reinigen. Nun einen großen Topf mit Wasser auffüllen und Schweinefleisch, Lauchstange, zwei Drittel der Karotten, die Hälfte der Pilze und Zwiebel grob geschnitten dazugeben und für insgesamt 8 Stunden köcheln lassen.<br /><br />Für die Sojaeier die Sojasoße mit zerdrücktem Knoblauch und bisschen geriebenen Ingwer aufkochen lassen. Bitte abschmecken, da jeder ein eigenes Empfinden beim Ingwergeschmack hat. Nun die Eier für genau 6 Minuten und 30 Sekunden ins kochendes Wasser geben und danach sofort in Eiswasser legen, damit der Vorgang gestoppt wird. Die Eier nun schälen und in eine Plastiktüte oder Behälter über mind. 8 Stunden mit der Hälfte der Sojasoße einlegen.<br /><br />Wenn alles fertig ist, die Brühe absieben und mit der restlichen Sojasoße mischen. Jetzt die Nudeln abkochen, Brühe drüber leeren und mit Lauchzwiebeln, Fleisch, einem Sojaei, Karotten und Pilzen, wie im Bild zu sehen, servieren."
+    },    
+    {
+      "id": "pilz-wein-soessle",
+      "type": "cooking-recipe",
+      "title": "Pilz-Wein-Sößle",
+      "author": "Nils & Kathi",
+      "date": "2022-11-25",
+      "idTiktok": "7170001815679929605",
+      "idInstagram": "ClZE734DOGD",
+      "idYoutube": "jqHPEr9SHPU",
+      "description": "Einfaches One-Pot Gericht",
+      "tags": ["vegetarisch"],
+      "durationCook": 30,
+      "durationWork": 15,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Zwiebel"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Champions"
+        },
+        {
+          "amount": 4,
+          "type": "EL",
+          "name": "Tomatenmark (von Mutti)",
+          "ref": "https://amzn.to/3TvJl6t"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Knoblauchöl",
+          "to": "/rezept/knoblauchoel"
+        },
+        {
+          "amount": 250,
+          "type": "ml",
+          "name": "Chardonnay"
+        },
+        {
+          "amount": 2,
+          "type": "Becher",
+          "name": "Sahne"
+        },
+        {
+          "amount": 1,
+          "type": "TL",
+          "name": "Green Hornet von Ankerkraut"
+        },
+        {
+          "amount": 3,
+          "type": "TL",
+          "name": "Gemüsebrühe"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Salz und Pfeffer"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Nudeln"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Wasser"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Parmesan (grob geriebener)"
+        }
+      ],
+      "content": "Zwiebeln klein würfeln. Champions waschen und in dünne Scheiben schneiden. Zwiebeln, Champions und Tomatenmark im Knoblauchöl anbraten. Nun mit Chardonnay ablöschen und Sahne hinzugeben. Nun mit Green Hornet, Salz, Pfeffer und Gemüsebrühe würzen. Dann die Nudeln und ein wenig Wasser hinzugeben und köcheln lassen. Zum Schluss Parmesan hinzugeben, umrühren und servieren."
+    },    
+    {
+      "id": "koreanische-ramen",
+      "type": "cooking-recipe",
+      "title": "Schnelle scharfe koreanische Ramen",
+      "author": "Nils & Kathi",
+      "date": "2022-11-26",
+      "idTiktok": "7170370199575743750",
+      "idInstagram": "ClboW5AjrIp",
+      "idYoutube": "oj9J-ES-1f0",
+      "description": "Achtung: Sehr scharf",
+      "tags": ["vegetarisch"],
+      "durationCook": 3,
+      "durationWork": 2,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Samyang Hot Chicken Flavour Ramen Carbonara",
+          "ref": "https://amzn.to/3AOgFyC"
+        },
+        {
+          "amount": 300,
+          "type": "ml",
+          "name": "Wasser"
+        }
+      ],
+      "content": "Samyang Ramen in Wasser für 3 Minuten kochen lassen. Anschließend das Wasser bis auf ca. 3 EL abschütten. Nun das Pulver und die Soße unterühren und servieren."
+    },  
+    {
+      "id": "vanillekipferl",
+      "type": "baking-recipe",
+      "title": "Vanillekipferl",
+      "author": "Nils & Kathi",
+      "date": "2022-11-27",
+      "idTiktok": "7170743099029785862",
+      "idInstagram": "CleM8l4D84-",
+      "idYoutube": "Hr9GZ9cHucU",
+      "description": "Leckere Vanillekipferl wie von Oma",
+      "tags": ["vegetarisch"],
+      "durationCook": 25,
+      "durationWork": 30,
+      "difficulty": "Einfach",
+      "portions": 45,
+      "ingredients": [
+        {
+          "amount": 280,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 140,
+          "type": "g",
+          "name": "Zucker"
+        },
+        {
+          "amount": 140,
+          "type": "g",
+          "name": "gemahlene Mandeln"
+        },
+        {
+          "amount": 350,
+          "type": "g",
+          "name": "Mehl"
+        },
+        {
+          "amount": 3,
+          "type": "Pck.",
+          "name": "Vanillinzucker"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "ger. Zitronenschale"
+        },
+        {
+          "amount": 100,
+          "type": "g",
+          "name": "Puderzucker"
+        }
+      ],
+      "content": "Die weiche Butter mit dem Zucker schaumig rühren. 2/3 bzw. 1 Pck. des Vanillinzuckers und den Puderzucker beiseitelegen. Die übrigen Zutaten nach und nach hinzufügen und zu einem Teig verarbeiten. Nun den Teig zu Schlangen formen und auf ein Backblech legen. Pro Kipferl ca. 7 cm lang und so dick wie der kleine Finger. Jetzt für ca. 25 Minuten bei 150 Grad Ober-/Unterhitze backen. Dann Vanillinzucker und Puderzucker mischen und die noch warmen Kipferl darin eintauchen."
+    },  
+    {
+      "id": "haselnussmakronen",
+      "type": "baking-recipe",
+      "title": "Haselnussmakronen",
+      "author": "Nils & Kathi",
+      "date": "2022-11-28",
+      "idTiktok": "7171112508223163654",
+      "idInstagram": "Clgxw4ZDc9C",
+      "idYoutube": "NkevG8biyCk",
+      "description": "Leckere Haselnussmakronen wie von Oma",
+      "tags": ["vegetarisch"],
+      "durationCook": 15,
+      "durationWork": 30,
+      "difficulty": "Einfach",
+      "portions": 50,
+      "ingredients": [
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Eiweiß"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Puderzucker"
+        },
+        {
+          "amount": 300,
+          "type": "g",
+          "name": "gemahlene Haselnüsse"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Vanillinzucker"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Ganze Haselnüsse"
+        }
+      ],
+      "content": "Eiweiß zu Schnee schlagen. Puderzucker mit diesem dick und schaumig rühren, dann mit den übrigen Zutaten vermischen. Auf ein mit Backpapier belegtes Blech kleine runde Makronen mit einem Esslöffel setzen, auf die Mitte eine ganze Haselnuss setzen und für ca. 15 Minuten bei 180 Grad Ober-/Unterhitze in den Backofen schieben."
+    },
+     
+    {
+      "id": "ausstecherle",
+      "type": "baking-recipe",
+      "title": "Feiner Ausstecherle",
+      "author": "Nils & Kathi",
+      "date": "2022-11-29",
+      "idTiktok": "7171491767257255174",
+      "idInstagram": "CljaZ4Nj_7q",
+      "idYoutube": "I03eCsEaFYM",
+      "description": "Leckere Ausstecherle aus der Kindheit",
+      "tags": ["vegetarisch"],
+      "durationCook": 10,
+      "durationWork": 30,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 500,
+          "type": "g",
+          "name": "Mehl"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "große Eier"
+        },
+        {
+          "amount": 1,
+          "type": "Prise",
+          "name": "Salz"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "etwas geriebene Zitronenschale"
+        }
+      ],
+      "content": "Der Teig reicht für ca. 50 Ausstecherle je nach Größe.<br /><br />Die kompletten Zutaten zu einem glatten Teig verarbeiten. Nun 1/2 cm dick ausrollen und mit beliebigen Förmchen ausstechen. In der Kälte steif werden lassen. Nun mit Eigelb bestreichen und nach Belieben verzieren, mit Liebesperlen, Hagelzucker, bunten Streusel etc. und für ca. 8–10 Minuten bei 180 Grad Ober-/Unterhitze ausbacken.<br /><br />Tipp: Mit dem gleichen Teig kann man auch Türmchen machen. Dabei zwei gleiche, unterschiedlich große Ausstecher verwenden. Das Größere auf das mit Backpapier belegte Blech legen, etwas Marmelade in die Mitte geben und das kleinere darauf setzen. Die noch warmen Türmchen dann mit Puderzucker bestreuen."
+    },    
+    {
+      "id": "liebesgruebchen",
+      "type": "baking-recipe",
+      "title": "Liebesgrübchen",
+      "author": "Nils & Kathi",
+      "date": "2022-11-30",
+      "idTiktok": "7171855059259526405",
+      "idInstagram": "Cll7YAPDGUI",
+      "idYoutube": "_MZzJa8UC08",
+      "description": "Diese Plätzchen dürfen in der Weihnachtszeit nicht fehlen",
+      "tags": ["vegetarisch"],
+      "durationCook": 15,
+      "durationWork": 30,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 175,
+          "type": "g",
+          "name": "Mehl"
+        },
+        {
+          "amount": 60,
+          "type": "g",
+          "name": "Zucker"
+        },
+        {
+          "amount": 1,
+          "type": "Pck.",
+          "name": "Vanillinzucker"
+        },
+        {
+          "amount": 1,
+          "type": "Prise",
+          "name": "Salz"
+        },
+        {
+          "amount": 2,
+          "type": null,
+          "name": "Eigelb"
+        },
+        {
+          "amount": 125,
+          "type": "g",
+          "name": "weiche Butter"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Erdberkonfitüre"
+        }
+      ],
+      "content": "Alle Zutaten außer die Konfitüre zu einem glatten Teig verarbeiten. Für ca. 30 Minuten in den Kühlschrank stellen. Nun aus dem Teig kleine Kugeln formen und auf ein mit Backpapier belegtes Blech setzen. Mit einem Kochlöffelstil kleine Vertiefungen in die Kugeln drücken. Konfitüre mit einem Spritzbeutel mit kleiner Lochtülle in jede Vertiefung spritzen und für ca. 15 Minuten bei 180 Grad Ober-/Unterhitze ausbacken."
+    },    
+    {
+      "id": "kokosmakronen",
+      "type": "baking-recipe",
+      "title": "Kokosmakronen",
+      "author": "Nils & Kathi",
+      "date": "2022-12-01",
+      "idTiktok": "7172226103451389189",
+      "idInstagram": "ClohadYj0zL",
+      "idYoutube": "9AiZ07vqPOs",
+      "description": "Perfekt für Kokosliebhaber",
+      "tags": ["vegetarisch"],
+      "durationCook": 15,
+      "durationWork": 15,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 4,
+          "type": null,
+          "name": "Eiweiß"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Puderzucker"
+        },
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Kokosflocken"
+        },
+        {
+          "amount": 0.5,
+          "type": null,
+          "name": "Zitrone"
+        }
+      ],
+      "content": "Die Portion reicht für ca. 50 Makronen.<br /><br />Eiweiß zu Schnee schlagen und dann mit Puderzucker dick und schaumig rühren. Dann die Kokosflocken, die geriebene Schale der Zitrone, Hälfte des Saftes der Zitrone hinzugeben und vermischen. Auf ein mit Backpapier belegtes Blech kleine runde Makronen setzen und für ca. 10–15 Minuten bei 180 Grad Ober-/Unterhitze ausbacken. Beim Backen immer wieder in den Backofen schauen. Sie sollten am Rand max. hellgelb werden."
+    },    
+    {
+      "id": "butter-s",
+      "type": "baking-recipe",
+      "title": "Butter S",
+      "author": "Nils & Kathi",
+      "date": "2022-12-02",
+      "idTiktok": null,
+      "idInstagram": null,
+      "idYoutube": "7drOg1u9F8o",
+      "description": "Die leckersten Plätzchen mit Hagelzucker",
+      "tags": ["vegetarisch"],
+      "durationCook": 12,
+      "durationWork": 20,
+      "difficulty": "Einfach",
+      "portions": 1,
+      "ingredients": [
+        {
+          "amount": 250,
+          "type": "g",
+          "name": "Butter"
+        },
+        {
+          "amount": 125,
+          "type": "g",
+          "name": "Zucker"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Ei"
+        },
+        {
+          "amount": 1,
+          "type": null,
+          "name": "Eiweiß"
+        },
+        {
+          "amount": null,
+          "type": null,
+          "name": "Hagelzucker"
+        }
+      ],
+      "content": "Aus den kompletten Zutaten (außer Eiweiß und Hagelzucker) einen Teig kneten. Den Teig so lange im Kühlschrank ruhen lassen, bis er hart ist. Nun daraus fingerlange und Kleinfinger-dicke Stangen formen. Dann diese S-förmig auf ein mit Backpapier belegtes Blech legen. Jetzt die Plätzchen in der Kälte erstarren lassen. Danach taucht man sie mit der Oberseite in das Eiweiß und anschließend in den Hagelzucker und backt diese bei 200 Grad Ober-/Unterhitze für ca. 12 Minuten aus."
+    }
+  ]
+}
